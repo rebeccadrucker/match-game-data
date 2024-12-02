@@ -1,457 +1,737 @@
-﻿Season,Episode,Game,Question,Panelist Chosen,Contestant ID,Contestant Answer,Panelist Answer,Matched
-73,1,1,bill blank,5,1,board,bailey,no
-73,2,2,sugar blank,4,1,cookie,ray robinson,no
-73,2,3,irish blank,5,1,whiskey,stew,no
-73,3,4,blank derby,1,1,kentucky,kentucky,yes
-73,4,6,dog blank,1,7,catcher,food,no
-73,5,7,bridal blank,5,7,trail,suite,no
-73,5,8,wild blank,3,7,joker,horses,no
-73,6,9,jack blank,3,7,the ripper,sprat,no
-73,6,10,out of blank,2,7,money,town,no
-73,7,11,doctor blank,5,12,kildare,bill,no
-73,8,12,french blank,4,13,kiss,dressing,no
-73,9,14,tiny blank,6,15,tim,tim,yes
-73,10,16,gold blank,4,17,finger,dust,no
-73,11,17,broken blank,6,18,arrow,heart,no
-73,11,18,cold blank,3,19,turkey,air,no
-73,13,20,uncle blank,2,21,tom,sam,no
-73,13,21,white blank,4,22,lightning,bread,no
-73,14,22,teddy blank,1,23,bear,bear,yes
-73,15,23,sour blank,6,24,cream,grapes,no
-73,16,25,scarlet blank,4,24,o'hara,o'hara,yes
-73,17,27,safety blank,4,24,first,first,yes
-73,18,28,captain blank,4,24,kangaroo,courageous,no
-73,19,29,telephone blank,4,24,book,pole,no
-73,20,30,sitting blank,4,31,pretty,bull,no
-73,20,31,blank file,1,31,nail,secret,no
-73,21,32,marriage blank,4,31,certificate,go-round,no
-73,22,33,banana blank,5,31,split,peel,no
-73,22,34,rocking blank,1,35,chair,chair,yes
-73,23,35,jackie blank,1,35,onassis,onassis,yes
-73,24,36,fire blank,1,35,hydrant,chief,no
-73,25,39,blank bee,6,40,busy,honey,no
-73,26,40,blank grapes,6,41,sour,sour,yes
-73,27,41,flying blank,1,41,birds,saucer,no
-73,28,42,national blank,6,41,velvet,election,no
-73,29,43,blank lighter,1,41,cigarette,cigarette,yes
-73,29,44,private blank,1,41,eye,entrance,no
-73,30,45,richard blank,4,46,burton,burton,yes
-73,35,48,blue blank,3,50,danube,bird,no
-73,35,49,bob blank,4,51,smith,cat,no
-73,36,50,wall blank,5,51,paper,street,no
-73,37,51,blank eggs,2,51,fried,raw,no
-73,37,52,sewing blank,1,54,machine,machine,yes
-73,38,53,airline blank,3,54,stewardess,stewardess,yes
-73,39,54,back blank,3,54,ache,ache,yes
-73,39,55,blank head,2,57,fat,red,no
-73,40,56,step blank,6,57,father,mother,no
-73,41,57,blank side,1,57,out,in,no
-73,41,58,three blank,1,57,musketeers,roses,no
-73,42,59,blank duck,4,61,cold,donald,no
-73,43,60,swimming blank,1,61,pool,pool,yes
-73,44,61,stormy blank,6,63,weather,weather,yes
-73,45,62,red blank,4,63,riding hood,ryder,no
-73,45,63,book blank,6,63,mark,shelf,no
-73,46,64,blank out,1,66,fall,strike,no
-73,48,66,silver blank,6,68,mine,wedding,no
-73,49,68,blank birthday,1,70,happy,happy,yes
-73,50,69,paint blank,6,71,brush,store,no
-73,51,70,hair blank,1,71,piece,tonic,no
-73,52,71,blank pit,6,71,cherry,snake,no
-73,52,72,movie blank,4,71,star,camera,no
-73,53,73,blank father,5,71,grand,god,no
-73,54,74,blank hood,6,76,robin,robin,yes
-73,55,75,spinning blank,3,77,wheel,wheel,yes
-73,55,76,blank dog,4,78,mad,mad,yes
-73,56,77,tea blank,5,79,house,break,no
-73,57,78,blank table,2,80,card,pool,no
-73,58,79,orange blank,5,80,juice,juice,yes
-73,59,80,baked blank,3,82,potato,potato,yes
-73,59,81,washington blank,3,82,d.c.,d.c.,yes
-73,60,82,blank up,3,82,wake,shut,no
-73,61,83,blank plate,5,85,hot,hot,yes
-73,62,84,blank book,1,85,check,phone,no
-73,63,85,blank cracker,2,87,soda,soda,yes
-73,63,86,empty blank,1,88,pockets,cans,no
-73,65,88,blank driver,1,90,taxi,reckless,no
-73,66,89,soft blank,5,90,spot,and dry,no
-73,66,90,sea blank,5,92,wolf,weed,no
-73,67,91,lucky blank,4,93,number,day,no
-73,68,92,on your blank,1,94,life,mark,no
-73,69,93,good for blank,1,95,nothing,you,no
-73,70,94,blank strip,4,96,sunset,flat,no
-73,70,95,fairy blank,4,97,princess,tale,no
-73,71,96,blank well,6,98,feel,get,no
-73,72,97,yankee blank,6,98,doodle,doodle,yes
-73,73,98,color blank,5,100,book,blind,no
-73,74,99,blank heart,5,100,valentine,heavy,no
-73,74,100,bathing blank,2,100,beauty,beauty,yes
-73,75,101,instant blank,4,103,coffee,potatoes,no
-73,76,102,blank hand,4,104,left,right,no
-73,77,103,cross your blank,5,105,heart,heart,yes
-73,77,104,blank square,1,106,times,pershing,no
-73,78,105,blank mint,1,106,after-dinner,pepper,no
-73,79,106,stock blank,3,106,market,market,yes
-73,80,107,blank cookie,1,109,chocolate,fortune,no
-73,80,108,ice blank,5,109,cream,cream,yes
-73,81,109,chain blank,5,111,gang,gang,yes
-73,82,110,half blank,6,112,gallon,baked,no
-73,83,111,blank suit,5,113,blue,law,no
-73,84,113,blank house,2,113,bath,white,no
-73,85,114,blank tire,5,116,flat,spare,no
-73,86,115,blank cup,2,116,tea,loving,no
-73,87,116,covered blank,6,116,wagon,up,no
-73,87,117,blank pool,2,119,swimming,swimming,yes
-73,88,118,apple blank,5,120,pie,pie,yes
-73,90,119,baby blank,1,121,sitter,blue,no
-73,90,120,bumper blank,3,121,guard,sticker,no
-73,91,121,pin blank,5,121,needle,head,no
-73,92,122,quick as a blank,6,124,wink,wink,yes
-73,93,123,gas blank,6,124,station,pipe,no
-73,93,124,blank bonnet,5,126,sun,blue,no
-73,94,125,ex blank,3,126,wife,it,no
-73,95,126,whipped blank,6,128,cream,cream,yes
-73,96,127,milk blank,6,128,shake,shake,yes
-73,96,128,good blank,1,128,time,night,no
-73,97,129,blank drop,3,131,lemon,money,no
-73,99,132,jet blank,2,132,plane,plane,yes
-73,100,133,steam blank,4,135,boat,bath,no
-73,101,134,hail blank,2,135,mary,america,no
-73,101,135,running blank,2,137,water,mate,no
-73,102,136,inch blank,1,137,worm,worm,yes
-73,102,137,blank glass,2,139,broken,hour,no
-73,103,138,pocket blank,5,139,book,money,no
-73,104,139,pot blank,6,139,luck,luck,yes
-73,105,140,ten blank,1,142,little indians,little indians,yes
-73,105,141,blank oil,5,143,baby,bath,no
-73,106,142,blank bone,1,143,funny,neck,no
-73,107,143,blank maid,6,143,spring,house,no
-73,108,144,last blank,6,146,chance,chance,yes
-73,109,146,blank deck,5,147,marked,poop,no
-73,110,147,cat blank,1,147,gut,nap,no
-73,111,148,animal blank,3,147,crackers,crackers,yes
-73,111,149,car blank,3,147,wash,wash,yes
-73,112,150,blank band,3,152,big,rubber,no
-73,113,151,on the blank,1,152,dot,level,no
-73,114,152,rice blank,4,152,paddy,paddy,yes
-73,115,153,first blank,1,155,aid,base,no
-73,116,154,christmas blank,3,156,tree,tree,yes
-73,116,155,take blank,3,156,off,five,no
-73,117,156,road blank,3,156,map,side,no
-73,118,157,turn blank,5,159,blue,signal,no
-73,119,159,spray blank,3,157,deodorant,gun,no
-74,120,160,blank post,1,157,emily,goal,no
-74,121,161,blank barrel,5,162,wooden,beer,no
-74,122,162,have a blank,3,162,ball,heart,no
-74,122,163,treasure blank,6,164,hunt,hunt,yes
-74,124,165,double blank,3,166,trouble,or nothing,no
-74,125,166,blank mill,1,166,paper,old,no
-74,125,167,blank head,6,166,bald,indian,no
-74,126,168,rob blank,6,169,roy,reiner,no
-74,127,169,honor blank,6,170,thy father,bound,no
-74,128,170,quarter blank,5,170,back,horse,no
-74,128,171,united blank,3,170,states,states,yes
-74,129,172,battle blank,5,173,ship,plan,no
-74,130,173,musical blank,5,173,chairs,chairs,yes
-74,132,176,english blank,5,177,leather,leather,yes
-74,133,177,evil blank,5,177,knievel,knievel,yes
-74,133,178,blank iron,5,177,and,steam,no
-74,134,179,penny blank,6,177,ante,ante,yes
-74,135,180,blank way,5,181,free,one,no
-74,135,181,blank boy,5,181,bell,nature,no
-74,136,182,blank down,5,183,fall,fall,yes
-74,138,184,over blank,5,183,there,coat,no
-74,139,185,key blank,5,186,hole,chain,no
-74,140,187,true blank,5,188,grit,love,no
-74,141,188,blank wheel,5,189,wagon,spinning,no
-74,142,189,blank box,5,190,cracker,lunch,no
-74,142,190,cheap blank,3,191,skate,skate,yes
-74,143,191,navy blank,5,192,blue,blue,yes
-74,144,192,jelly blank,4,193,roll,fish,no
-74,145,193,bob blank,5,193,hope,hope,yes
-74,146,194,green blank,5,193,thumb,goddess,no
-74,146,195,little blank,5,196,red riding hood,orphan annie,no
-74,147,196,paper blank,4,196,doll,moon,no
-74,148,197,panama blank,4,198,canal,canal,yes
-74,148,198,blank knife,4,198,butcher,butcher,yes
-74,149,199,sun blank,4,198,tan,set,no
-74,150,200,blank water,5,198,salt,hot,no
-74,151,201,blank play,5,198,legitimate,triple,no
-74,152,202,blank mine,1,198,gold,coal,no
-74,153,203,born blank,5,204,free,free,yes
-74,154,204,blank night,5,204,silent,silent,yes
-74,157,206,fan blank,3,207,tail,club,no
-74,157,207,blank mix,5,208,cake,cake,yes
-74,158,208,glass blank,5,209,menagerie,jug,no
-74,159,209,blank pen,5,209,ballpoint,fountain,no
-74,160,210,blank smoke,5,211,cigarette,holy,no
-74,161,212,oil blank,5,212,well,well,yes
-74,162,213,play the blank,1,212,game,game,yes
-74,163,214,spring blank,1,212,fever,fever,yes
-74,164,215,pale blank,1,216,face,face,yes
-74,165,216,blank world,5,217,new,small,no
-74,166,217,draft blank,5,217,beer,board,no
-74,167,218,blank education,1,219,sex,college,no
-74,168,219,main blank,5,220,street,street,yes
-74,168,220,old blank,5,220,man in the shoe,lang syne,no
-74,170,221,soap blank,1,220,opera,opera,yes
-74,171,223,blank hammer,5,224,nails and,sledge,no
-74,172,224,catch blank,5,223,22,cold,no
-74,173,225,beer blank,5,223,barrel polka,barrel,no
-74,174,226,blank pepper,3,226,black,hot,no
-74,174,227,gypsy blank,4,226,rose lee,band,no
-74,175,228,midnight blank,5,228,cowboy,snack,no
-74,176,229,blank man,5,229,bat,garbage,no
-74,179,232,blank punch,6,232,hawaiian,hawaiian,yes
-74,180,234,bed of blank,5,233,rock,roses,no
-74,181,235,blank brother,1,233,my,blood,no
-74,182,236,miniature blank,5,233,golf,poodle,no
-74,183,237,happy blank,5,237,birthday,birthday,yes
-74,184,238,frank blank,5,238,lin roosevelt,sinatra,no
-74,184,239,shooting blank,5,239,gallery,star,no
-74,185,240,buffalo blank,1,239,bill,bill,yes
-74,186,241,blank saw,2,241,see,buzz,no
-74,187,242,crack blank,6,241,up,up,yes
-74,188,243,pony blank,5,243,express,tail,no
-74,188,244,roll out the blank,5,243,barrel,barrel,yes
-74,189,245,blank union,2,245,carpenters,credit,no
-74,190,246,pine blank,5,246,tree,needles,no
-74,191,247,blank pocket,2,246,pick,patch,no
-74,192,248,silk blank,2,246,sheet,stockings,no
-74,193,249,siamese blank,5,246,twins,twins,yes
-74,193,250,comic blank,5,250,strip,strip,yes
-74,195,251,blank weight,6,250,heavy,excess,no
-74,195,252,swiss blank,5,252,bank,family robinson,no
-74,196,253,clam blank,5,253,bake,bake,yes
-74,197,254,blank pigeon,5,253,homing,stool,no
-74,198,255,whooping blank,4,253,cough,cough,yes
-74,199,256,blank stop,4,253,pit,bus,no
-74,199,257,chow blank,4,253,mein,mein,yes
-74,200,258,blank chop,4,258,pork,pork,yes
-74,202,260,marriage blank,1,259,contract,license,no
-74,202,261,roller blank,5,259,skate,derby,no
-74,203,262,london blank,5,262,bridge,bridge,yes
-74,204,263,blank yard,2,262,back,back,yes
-74,204,264,blank bowl,5,262,hollywood,punch,no
-74,205,265,blank clock,5,262,alarm,grandfather,no
-74,206,266,tap blank,5,266,water,dance,no
-74,207,267,blank gun,2,266,peter,shot,no
-74,207,268,seventh blank,4,266,heaven,heaven,yes
-74,209,269,golden blank,3,266,fleece,rule,no
-74,209,270,blank chain,1,266,watch,daisy,no
-74,210,271,simple blank,5,270,simon,simon,yes
-74,211,272,never blank,5,270,on sunday,on sunday,yes
-74,212,273,band blank,5,270,wagon,wagon,yes
-74,213,274,wash blank,5,273,day,room,no
-74,214,275,art blank,5,273,gallery,class,no
-74,215,276,blank bug,5,275,litter,lightning,no
-74,215,277,blank jones,5,275,tom,buck,no
-74,217,278,blank deal,5,277,let's make a,let's make a,yes
-74,218,279,blank turkey,5,277,cold,cold,yes
-74,218,280,blank cover,5,277,under,under,yes
-74,219,281,blank fight,5,277,pillow,dog,no
-74,220,282,dead blank,6,277,body,weight,no
-74,221,283,gum blank,5,277,ball,drop,no
-74,222,284,blank ward,5,283,maternity,hospital,no
-74,222,285,blank coast,6,283,pacific,west,no
-74,223,286,blank alarm,5,283,false,fire,no
-74,224,287,blank rider,6,283,easy,easy,yes
-74,225,288,blank canal,5,283,erie,panama,no
-74,226,289,gravy blank,5,288,stain,train,no
-74,227,290,blank noon,2,288,high,high,yes
-74,228,291,cracker blank,5,286,jacks,barrel,no
-74,229,292,hurry blank,3,290,up,up,yes
-74,229,293,father blank,6,290,time,image,no
-74,230,294,blank station,5,292,gas,bus,no
-74,232,296,blank brush,5,294,hair,hair,yes
-74,233,297,dick blank,5,294,tracy,tracy,yes
-74,234,298,brown blank,5,296,derby,derby,yes
-74,236,300,mighty blank,3,298,mouse,mouse,yes
-74,237,301,blank hill,5,299,bunker,bunker,yes
-74,238,302,blank watch,5,300,night,stop,no
-74,241,305,arm blank,5,302,pit,wrestle,no
-74,241,306,blank room,3,304,bed,bath,no
-74,242,307,blank vault,5,305,bank,bank,yes
-74,243,308,bicycle blank,3,305,built for two,built for two,yes
-74,244,309,blank berry,5,305,blue,straw,no
-74,245,310,blank treat,5,308,trick or,trick or,yes
-74,246,311,blank rabbit,6,309,jack,jack,yes
-74,247,312,blank rogers,5,310,roy,ginger,no
-74,248,313,blank top,5,311,pop,flat,no
-74,249,314,standard blank,6,311,oil,oil,yes
-74,249,315,pajama blank,6,311,bottoms,tops,no
-74,251,316,show blank,5,314,business,and tell,no
-74,252,317,toll blank,3,314,bridge,booth,no
-74,252,318,stark blank,3,314,naked,naked,yes
-74,254,320,wise blank,5,318,owl,guy,no
-74,255,321,danish blank,5,319,pastry,pastry,yes
-74,256,322,blank corn,3,320,pop,new,no
-74,257,323,mission blank,5,321,impossible,impossible,yes
-74,258,324,hand blank,5,322,shake,cream,no
-74,259,325,blank feed,5,323,chicken,chicken,yes
-74,259,326,blank alive,3,323,buried,buried,yes
-74,260,327,blank champion,4,323,grand,the world,no
-74,261,328,town blank,5,323,house,crier,no
-74,262,329,blank express,3,323,midnight,american,no
-74,263,331,cover blank,5,328,up,up,yes
-74,265,332,blank dinner,3,328,turkey,tv,no
-74,265,333,lamb blank,3,331,chops,chop,yes
-74,266,334,blank range,5,332,electric,firing,no
-74,267,335,blank runner,5,332,long distance,road,no
-74,268,336,blank code,5,334,morse,morse,yes
-74,268,337,blank rack,5,334,bed,hat,no
-74,269,338,blank affair,6,334,love,love,yes
-74,270,339,blank ship,5,334,big,flag,no
-74,271,340,jimmy blank,5,338,stewart,cagney,no
-74,272,341,blank sand,6,336,play in the,quick,no
-74,273,342,tinker blank,6,336,bell,bell,yes
-74,274,343,shrimp blank,5,340,boat,cocktail,no
-74,275,344,dutch blank,6,341,treat,treat,yes
-74,275,345,pipe blank,6,341,line,dream,no
-74,276,346,blank bay,3,341,moonlight,san francisco,no
-74,277,347,bunny blank,5,341,hop,rabbit,no
-74,278,348,rocket blank,3,341,ship,ship,yes
-74,279,349,blank ranger,5,341,the lone,lone,yes
-74,280,350,russian blank,3,341,roulette,roulette,yes
-74,281,351,remember blank,5,348,when,the alamo,no
-74,283,353,rear blank,5,348,end,window,no
-74,284,354,peter blank,5,351,rabbit,rabbit,yes
-74,285,355,blank doll,5,351,rag,baby,no
-74,287,356,bald blank,6,351,head,eagle,no
-74,288,357,coat of blank,3,354,arms,arms,yes
-74,289,358,blank ray,3,355,sun,x,no
-74,290,359,tape blank,5,356,recorder,measure,no
-74,290,360,venus blank,6,356,de milo,de milo,yes
-74,291,361,blank hunter,6,358,deer,deer,yes
-74,292,362,andy blank,4,359,hardy,hardy,yes
-74,293,363,side blank,4,359,winder,kick,no
-74,293,364,blank club,4,359,canadian,country,no
-74,294,365,blank out,5,359,black,strike,no
-74,295,366,blank wax,2,363,car,floor,no
-74,296,367,center blank,5,363,page,forward,no
-74,297,368,back to blank,5,363,school,school,yes
-74,298,370,watch blank,5,367,pocket,band,no
-74,299,371,candy blank,2,368,cane,man,no
-74,300,373,blank shooter,3,370,pea,sharp,no
-74,301,374,best blank,5,370,man,man,yes
-74,302,375,house blank,3,370,broken,beautiful,no
-74,303,376,blank ring,5,370,wedding,wedding,yes
-74,304,377,blank west,6,370,head,go,no
-74,305,378,ancient blank,1,375,antique,history,no
-74,306,380,shady blank,5,376,tree,lady,no
-74,307,381,blank market,5,378,super,super,yes
-74,308,382,round blank,5,378,house,table,no
-74,309,383,pair of blank,5,378,shoes,shoes,yes
-74,310,384,blank sauce,5,378,apple,tomato,no
-74,314,386,window blank,2,384,pane,pane,yes
-74,315,387,september blank,1,384,bride,bride,yes
-74,315,388,day blank,5,384,school,light,no
-74,316,389,music blank,5,384,lover,box,no
-74,317,390,safe blank,1,388,ty,journey,no
-74,318,391,thunder blank,2,389,bolt,bird,no
-74,318,392,blank pot,3,390,bean,coffee,no
-74,319,393,blank party,5,390,house,birthday,no
-74,320,394,sentimental blank,5,392,feelings,journey,no
-74,321,395,blank marx,5,392,groucho,groucho,yes
-74,322,396,beach blank,3,392,bum,boy,no
-74,323,397,blank sisters,5,392,lennon,twin,no
-74,323,398,blank bell,1,392,cow,liberty,no
-74,326,400,get blank,3,399,lost,lost,yes
-74,327,401,blank canyon,5,400,grand,benedict,no
-74,329,403,handy blank,5,401,man,wipe,no
-74,330,404,little red blank,3,401,riding hood,riding hood,yes
-74,331,405,missing blank,6,404,link,link,yes
-74,332,406,billy blank,6,404,the kid,the kid,yes
-74,332,407,cut your blank,6,404,throat,throat,yes
-74,333,408,bean blank,5,407,bag,stalk,no
-74,334,409,blank instrument,5,407,blunt,musical,no
-74,336,411,juicy blank,1,410,fruit,fruit,yes
-74,337,412,good blank,5,411,times,day,no
-74,338,413,blank junction,1,411,petticoat,petticoat,yes
-74,339,414,basic blank,1,411,mathematics,black,no
-74,340,415,taxi blank,2,414,cab,cab,yes
-74,341,416,mark of blank,5,414,zorro,zorro,yes
-74,342,417,chest blank,1,414,x-ray,nut,no
-74,343,418,lucky blank,5,417,strike,charm,no
-74,344,419,blank lee,5,417,robert e.,robert e.,yes
-74,345,420,blank loser,5,419,bad,born,no
-74,346,421,dust blank,4,419,cloth,storm,no
-74,347,422,astro blank,5,421,dome,dome,yes
-74,348,423,blank paradise,5,422,fantastic,bird of,no
-74,349,424,blank shake,5,423,milk,milk,yes
-74,351,426,blank price,5,424,right,half,no
-74,352,427,blank york,5,426,new,new,yes
-74,353,428,blank wednesday,5,426,ash,any,no
-74,354,429,minnie blank,5,428,pearl,mouse,no
-74,355,430,blank annie,6,428,little orphan,orphan,yes
-74,357,432,blank martin,5,431,dean,dean,yes
-74,358,433,queen blank,5,432,elizabeth,bee,no
-74,358,434,blank velvet,5,432,national,national,yes
-74,359,435,i love a blank,6,432,parade,parade,yes
-74,360,436,blank link,5,432,chain,missing,no
-74,361,437,blank jones,5,436,tom,tomato,yes
-74,363,439,blank jam,5,438,strawberry,traffic,no
-74,364,441,blank nature,5,440,mother,mother,yes
-74,366,443,who's blank,5,442,who,who,yes
-74,367,444,december blank,5,442,bride,bride,yes
-74,368,445,blank carol,5,444,christmas,christmas,yes
-75,369,446,blank dandy,5,445,yankee doodle,yankee doodle,yes
-75,370,447,blank fever,5,446,spring,scarlet,no
-75,371,448,doc blank,2,446,severinsen,holliday,no
-75,372,449,david and blank,5,448,goliath,goliath,yes
-75,373,450,hudson blank,5,449,river,brothers,no
-75,374,451,blank finn,5,450,mickey,huckleberry,no
-75,375,452,blank morning,4,451,sunday,good,no
-75,375,453,winston blank,2,452,churchill,churchill,yes
-75,376,454,even blank,5,453,money,money,yes
-75,377,455,blank dip,5,453,big,skinny,no
-75,378,456,on top of blank,4,455,old smoky,old smoky,yes
-75,379,457,panty blank,4,455,hose,hose,yes
-75,380,458,bunch of blank,4,455,grapes,grapes,yes
-75,381,459,cross blank,6,458,bearer,my heart,no
-75,382,460,boy blank,5,458,scout,friend,no
-75,382,461,pay blank,6,458,check,cash,no
-75,383,462,blank frost,5,458,jack,jack,yes
-75,384,463,oliver blank,5,462,twist,twist,yes
-75,385,464,blank cane,5,462,sugar,sugar,yes
-75,386,465,bar blank,5,464,bells,keeper,no
-75,387,466,blank burn,5,464,cigarette,side,no
-75,387,467,child blank,5,466,bride,hood,no
-75,388,468,blank capsule,5,467,space,time,no
-75,389,469,padded blank,3,467,cell,bra,no
-75,390,470,puff blank,5,469,the magic dragon,pastry,no
-75,390,471,12 o'clock blank,4,469,noon,high,no
-75,392,473,condensed blank,6,471,version,milk,no
-75,393,474,autumn blank,5,471,leaves,leaves,yes
-75,394,475,blank peck,5,474,gregory,gregory,yes
-75,395,476,loud blank,5,474,mouth,mouth,yes
-75,396,477,bridge blank,5,476,port,port,yes
-75,397,478,blank baby,5,476,doll,brand new,no
-75,398,479,cool blank,1,478,man,cat,no
-75,398,480,bath blank,5,479,tub,room,no
-75,399,481,powder blank,1,479,puff,room,no
-75,400,482,blank newman,6,479,paul,paul,yes
-75,401,483,blank case,5,482,suit,brief,no
-75,402,484,cheek blank,6,482,to cheek,to cheek,yes
-75,403,485,blank boots,6,482,puss in,cowboy,no
-75,404,486,blank happy,5,485,i'm,be,no
-75,405,487,blank guide,6,486,indian,tv,no
-75,405,488,blank and blue,6,486,black,black,yes
-75,406,489,blank east,5,488,eden,far,no
-75,407,490,blank jude,3,489,hey,hey,yes
-75,408,491,human blank,5,489,being,being,yes
-75,409,492,blank choice,5,491,first,dealer's,no
-75,410,493,dragon blank,5,492,fly,fly,yes
-75,412,495,lightning blank,3,492,bolt,bolt,yes
-75,412,496,big blank,3,492,ben,ben,yes
-75,414,497,eye blank,5,496,doctor,lash,no
-75,415,498,face the blank,5,496,nation,music,no
-75,417,500,dixie blank,5,499,land,cup,no
-75,418,501,eight blank,5,500,o'clock,ball,no
-75,419,502,blank dreamer,5,501,day,day,yes
-75,420,503,blank nuts,5,501,pea,pea,yes
-75,421,504,motor blank,5,503,cycle,car,no
-75,421,505,log blank,5,504,cabin,cabin,yes
-75,423,507,blank keeper,5,504,house,bee,no
-75,424,508,mule blank,5,504,team,train,no
-75,425,509,ivan blank,5,504,hoe,hoe,yes
+﻿Season,Episode,Game,Question,Panelist Chosen,Contestant ID,Contestant Answer,Panelist Answer,Matched,Notes
+73,1,1,bill blank,5,1,board,bailey,no,
+73,2,2,sugar blank,4,1,cookie,ray robinson,no,
+73,2,3,irish blank,5,1,whiskey,stew,no,
+73,3,4,blank derby,1,1,kentucky,kentucky,yes,
+73,4,6,dog blank,1,7,catcher,food,no,
+73,5,7,bridal blank,5,7,trail,suite,no,
+73,5,8,wild blank,3,7,joker,horses,no,
+73,6,9,jack blank,3,7,the ripper,sprat,no,
+73,6,10,out of blank,2,7,money,town,no,
+73,7,11,doctor blank,5,12,kildare,bill,no,
+73,8,12,french blank,4,13,kiss,dressing,no,
+73,9,14,tiny blank,6,15,tim,tim,yes,
+73,10,16,gold blank,4,17,finger,dust,no,
+73,11,17,broken blank,6,18,arrow,heart,no,
+73,11,18,cold blank,3,19,turkey,air,no,
+73,13,20,uncle blank,2,21,tom,sam,no,
+73,13,21,white blank,4,22,lightning,bread,no,
+73,14,22,teddy blank,1,23,bear,bear,yes,
+73,15,23,sour blank,6,24,cream,grapes,no,
+73,16,25,scarlet blank,4,24,o'hara,o'hara,yes,
+73,17,27,safety blank,4,24,first,first,yes,
+73,18,28,captain blank,4,24,kangaroo,courageous,no,
+73,19,29,telephone blank,4,24,book,pole,no,
+73,20,30,sitting blank,4,31,pretty,bull,no,
+73,20,31,blank file,1,31,nail,secret,no,
+73,21,32,marriage blank,4,31,certificate,go-round,no,
+73,22,33,banana blank,5,31,split,peel,no,
+73,22,34,rocking blank,1,35,chair,chair,yes,
+73,23,35,jackie blank,1,35,onassis,onassis,yes,
+73,24,36,fire blank,1,35,hydrant,chief,no,
+73,25,39,blank bee,6,40,busy,honey,no,
+73,26,40,blank grapes,6,41,sour,sour,yes,
+73,27,41,flying blank,1,41,birds,saucer,no,
+73,28,42,national blank,6,41,velvet,election,no,
+73,29,43,blank lighter,1,41,cigarette,cigarette,yes,
+73,29,44,private blank,1,41,eye,entrance,no,
+73,30,45,richard blank,4,46,burton,burton,yes,
+73,35,48,blue blank,3,50,danube,bird,no,
+73,35,49,bob blank,4,51,smith,cat,no,
+73,36,50,wall blank,5,51,paper,street,no,
+73,37,51,blank eggs,2,51,fried,raw,no,
+73,37,52,sewing blank,1,54,machine,machine,yes,
+73,38,53,airline blank,3,54,stewardess,stewardess,yes,
+73,39,54,back blank,3,54,ache,ache,yes,
+73,39,55,blank head,2,57,fat,red,no,
+73,40,56,step blank,6,57,father,mother,no,
+73,41,57,blank side,1,57,out,in,no,
+73,41,58,three blank,1,57,musketeers,roses,no,
+73,42,59,blank duck,4,61,cold,donald,no,
+73,43,60,swimming blank,1,61,pool,pool,yes,
+73,44,61,stormy blank,6,63,weather,weather,yes,
+73,45,62,red blank,4,63,riding hood,ryder,no,
+73,45,63,book blank,6,63,mark,shelf,no,
+73,46,64,blank out,1,66,fall,strike,no,
+73,48,66,silver blank,6,68,mine,wedding,no,
+73,49,68,blank birthday,1,70,happy,happy,yes,
+73,50,69,paint blank,6,71,brush,store,no,
+73,51,70,hair blank,1,71,piece,tonic,no,
+73,52,71,blank pit,6,71,cherry,snake,no,
+73,52,72,movie blank,4,71,star,camera,no,
+73,53,73,blank father,5,71,grand,god,no,
+73,54,74,blank hood,6,76,robin,robin,yes,
+73,55,75,spinning blank,3,77,wheel,wheel,yes,
+73,55,76,blank dog,4,78,mad,mad,yes,
+73,56,77,tea blank,5,79,house,break,no,
+73,57,78,blank table,2,80,card,pool,no,
+73,58,79,orange blank,5,80,juice,juice,yes,
+73,59,80,baked blank,3,82,potato,potato,yes,
+73,59,81,washington blank,3,82,d.c.,d.c.,yes,
+73,60,82,blank up,3,82,wake,shut,no,
+73,61,83,blank plate,5,85,hot,hot,yes,
+73,62,84,blank book,1,85,check,phone,no,
+73,63,85,blank cracker,2,87,soda,soda,yes,
+73,63,86,empty blank,1,88,pockets,cans,no,
+73,65,88,blank driver,1,90,taxi,reckless,no,
+73,66,89,soft blank,5,90,spot,and dry,no,
+73,66,90,sea blank,5,92,wolf,weed,no,
+73,67,91,lucky blank,4,93,number,day,no,
+73,68,92,on your blank,1,94,life,mark,no,
+73,69,93,good for blank,1,95,nothing,you,no,
+73,70,94,blank strip,4,96,sunset,flat,no,
+73,70,95,fairy blank,4,97,princess,tale,no,
+73,71,96,blank well,6,98,feel,get,no,
+73,72,97,yankee blank,6,98,doodle,doodle,yes,
+73,73,98,color blank,5,100,book,blind,no,
+73,74,99,blank heart,5,100,valentine,heavy,no,
+73,74,100,bathing blank,2,100,beauty,beauty,yes,
+73,75,101,instant blank,4,103,coffee,potatoes,no,
+73,76,102,blank hand,4,104,left,right,no,
+73,77,103,cross your blank,5,105,heart,heart,yes,
+73,77,104,blank square,1,106,times,pershing,no,
+73,78,105,blank mint,1,106,after-dinner,pepper,no,
+73,79,106,stock blank,3,106,market,market,yes,
+73,80,107,blank cookie,1,109,chocolate,fortune,no,
+73,80,108,ice blank,5,109,cream,cream,yes,
+73,81,109,chain blank,5,111,gang,gang,yes,
+73,82,110,half blank,6,112,gallon,baked,no,
+73,83,111,blank suit,5,113,blue,law,no,
+73,84,113,blank house,2,113,bath,white,no,
+73,85,114,blank tire,5,116,flat,spare,no,
+73,86,115,blank cup,2,116,tea,loving,no,
+73,87,116,covered blank,6,116,wagon,up,no,
+73,87,117,blank pool,2,119,swimming,swimming,yes,
+73,88,118,apple blank,5,120,pie,pie,yes,
+73,90,119,baby blank,1,121,sitter,blue,no,
+73,90,120,bumper blank,3,121,guard,sticker,no,
+73,91,121,pin blank,5,121,needle,head,no,
+73,92,122,quick as a blank,6,124,wink,wink,yes,
+73,93,123,gas blank,6,124,station,pipe,no,
+73,93,124,blank bonnet,5,126,sun,blue,no,
+73,94,125,ex blank,3,126,wife,it,no,
+73,95,126,whipped blank,6,128,cream,cream,yes,
+73,96,127,milk blank,6,128,shake,shake,yes,
+73,96,128,good blank,1,128,time,night,no,
+73,97,129,blank drop,3,131,lemon,money,no,
+73,99,132,jet blank,2,132,plane,plane,yes,
+73,100,133,steam blank,4,135,boat,bath,no,
+73,101,134,hail blank,2,135,mary,america,no,
+73,101,135,running blank,2,137,water,mate,no,
+73,102,136,inch blank,1,137,worm,worm,yes,
+73,102,137,blank glass,2,139,broken,hour,no,
+73,103,138,pocket blank,5,139,book,money,no,
+73,104,139,pot blank,6,139,luck,luck,yes,
+73,105,140,ten blank,1,142,little indians,little indians,yes,
+73,105,141,blank oil,5,143,baby,bath,no,
+73,106,142,blank bone,1,143,funny,neck,no,
+73,107,143,blank maid,6,143,spring,house,no,
+73,108,144,last blank,6,146,chance,chance,yes,
+73,109,146,blank deck,5,147,marked,poop,no,
+73,110,147,cat blank,1,147,gut,nap,no,
+73,111,148,animal blank,3,147,crackers,crackers,yes,
+73,111,149,car blank,3,147,wash,wash,yes,
+73,112,150,blank band,3,152,big,rubber,no,
+73,113,151,on the blank,1,152,dot,level,no,
+73,114,152,rice blank,4,152,paddy,paddy,yes,
+73,115,153,first blank,1,155,aid,base,no,
+73,116,154,christmas blank,3,156,tree,tree,yes,
+73,116,155,take blank,3,156,off,five,no,
+73,117,156,road blank,3,156,map,side,no,
+73,118,157,turn blank,5,159,blue,signal,no,
+73,119,159,spray blank,3,157,deodorant,gun,no,
+74,120,160,blank post,1,157,emily,goal,no,
+74,121,161,blank barrel,5,162,wooden,beer,no,
+74,122,162,have a blank,3,162,ball,heart,no,
+74,122,163,treasure blank,6,164,hunt,hunt,yes,
+74,124,165,double blank,3,166,trouble,or nothing,no,
+74,125,166,blank mill,1,166,paper,old,no,
+74,125,167,blank head,6,166,bald,indian,no,
+74,126,168,rob blank,6,169,roy,reiner,no,
+74,127,169,honor blank,6,170,thy father,bound,no,
+74,128,170,quarter blank,5,170,back,horse,no,
+74,128,171,united blank,3,170,states,states,yes,
+74,129,172,battle blank,5,173,ship,plan,no,
+74,130,173,musical blank,5,173,chairs,chairs,yes,
+74,132,176,english blank,5,177,leather,leather,yes,
+74,133,177,evil blank,5,177,knievel,knievel,yes,
+74,133,178,blank iron,5,177,and,steam,no,
+74,134,179,penny blank,6,177,ante,ante,yes,
+74,135,180,blank way,5,181,free,one,no,
+74,135,181,blank boy,5,181,bell,nature,no,
+74,136,182,blank down,5,183,fall,fall,yes,
+74,138,184,over blank,5,183,there,coat,no,
+74,139,185,key blank,5,186,hole,chain,no,
+74,140,187,true blank,5,188,grit,love,no,
+74,141,188,blank wheel,5,189,wagon,spinning,no,
+74,142,189,blank box,5,190,cracker,lunch,no,
+74,142,190,cheap blank,3,191,skate,skate,yes,
+74,143,191,navy blank,5,192,blue,blue,yes,
+74,144,192,jelly blank,4,193,roll,fish,no,
+74,145,193,bob blank,5,193,hope,hope,yes,
+74,146,194,green blank,5,193,thumb,goddess,no,
+74,146,195,little blank,5,196,red riding hood,orphan annie,no,
+74,147,196,paper blank,4,196,doll,moon,no,
+74,148,197,panama blank,4,198,canal,canal,yes,
+74,148,198,blank knife,4,198,butcher,butcher,yes,
+74,149,199,sun blank,4,198,tan,set,no,
+74,150,200,blank water,5,198,salt,hot,no,
+74,151,201,blank play,5,198,legitimate,triple,no,
+74,152,202,blank mine,1,198,gold,coal,no,
+74,153,203,born blank,5,204,free,free,yes,
+74,154,204,blank night,5,204,silent,silent,yes,
+74,157,206,fan blank,3,207,tail,club,no,
+74,157,207,blank mix,5,208,cake,cake,yes,
+74,158,208,glass blank,5,209,menagerie,jug,no,
+74,159,209,blank pen,5,209,ballpoint,fountain,no,
+74,160,210,blank smoke,5,211,cigarette,holy,no,
+74,161,212,oil blank,5,212,well,well,yes,
+74,162,213,play the blank,1,212,game,game,yes,
+74,163,214,spring blank,1,212,fever,fever,yes,
+74,164,215,pale blank,1,216,face,face,yes,
+74,165,216,blank world,5,217,new,small,no,
+74,166,217,draft blank,5,217,beer,board,no,
+74,167,218,blank education,1,219,sex,college,no,
+74,168,219,main blank,5,220,street,street,yes,
+74,168,220,old blank,5,220,man in the shoe,lang syne,no,
+74,170,221,soap blank,1,220,opera,opera,yes,
+74,171,223,blank hammer,5,224,nails and,sledge,no,
+74,172,224,catch blank,5,223,22,cold,no,
+74,173,225,beer blank,5,223,barrel polka,barrel,no,
+74,174,226,blank pepper,3,226,black,hot,no,
+74,174,227,gypsy blank,4,226,rose lee,band,no,
+74,175,228,midnight blank,5,228,cowboy,snack,no,
+74,176,229,blank man,5,229,bat,garbage,no,
+74,179,232,blank punch,6,232,hawaiian,hawaiian,yes,
+74,180,234,bed of blank,5,233,rock,roses,no,
+74,181,235,blank brother,1,233,my,blood,no,
+74,182,236,miniature blank,5,233,golf,poodle,no,
+74,183,237,happy blank,5,237,birthday,birthday,yes,
+74,184,238,frank blank,5,238,lin roosevelt,sinatra,no,
+74,184,239,shooting blank,5,239,gallery,star,no,
+74,185,240,buffalo blank,1,239,bill,bill,yes,
+74,186,241,blank saw,2,241,see,buzz,no,
+74,187,242,crack blank,6,241,up,up,yes,
+74,188,243,pony blank,5,243,express,tail,no,
+74,188,244,roll out the blank,5,243,barrel,barrel,yes,
+74,189,245,blank union,2,245,carpenters,credit,no,
+74,190,246,pine blank,5,246,tree,needles,no,
+74,191,247,blank pocket,2,246,pick,patch,no,
+74,192,248,silk blank,2,246,sheet,stockings,no,
+74,193,249,siamese blank,5,246,twins,twins,yes,
+74,193,250,comic blank,5,250,strip,strip,yes,
+74,195,251,blank weight,6,250,heavy,excess,no,
+74,195,252,swiss blank,5,252,bank,family robinson,no,
+74,196,253,clam blank,5,253,bake,bake,yes,
+74,197,254,blank pigeon,5,253,homing,stool,no,
+74,198,255,whooping blank,4,253,cough,cough,yes,
+74,199,256,blank stop,4,253,pit,bus,no,
+74,199,257,chow blank,4,253,mein,mein,yes,
+74,200,258,blank chop,4,258,pork,pork,yes,
+74,202,260,marriage blank,1,259,contract,license,no,
+74,202,261,roller blank,5,259,skate,derby,no,
+74,203,262,london blank,5,262,bridge,bridge,yes,
+74,204,263,blank yard,2,262,back,back,yes,
+74,204,264,blank bowl,5,262,hollywood,punch,no,
+74,205,265,blank clock,5,262,alarm,grandfather,no,
+74,206,266,tap blank,5,266,water,dance,no,
+74,207,267,blank gun,2,266,peter,shot,no,
+74,207,268,seventh blank,4,266,heaven,heaven,yes,
+74,209,269,golden blank,3,266,fleece,rule,no,
+74,209,270,blank chain,1,266,watch,daisy,no,
+74,210,271,simple blank,5,270,simon,simon,yes,
+74,211,272,never blank,5,270,on sunday,on sunday,yes,
+74,212,273,band blank,5,270,wagon,wagon,yes,
+74,213,274,wash blank,5,273,day,room,no,
+74,214,275,art blank,5,273,gallery,class,no,
+74,215,276,blank bug,5,275,litter,lightning,no,
+74,215,277,blank jones,5,275,tom,buck,no,
+74,217,278,blank deal,5,277,let's make a,let's make a,yes,
+74,218,279,blank turkey,5,277,cold,cold,yes,
+74,218,280,blank cover,5,277,under,under,yes,
+74,219,281,blank fight,5,277,pillow,dog,no,
+74,220,282,dead blank,6,277,body,weight,no,
+74,221,283,gum blank,5,277,ball,drop,no,
+74,222,284,blank ward,5,283,maternity,hospital,no,
+74,222,285,blank coast,6,283,pacific,west,no,
+74,223,286,blank alarm,5,283,false,fire,no,
+74,224,287,blank rider,6,283,easy,easy,yes,
+74,225,288,blank canal,5,283,erie,panama,no,
+74,226,289,gravy blank,5,288,stain,train,no,
+74,227,290,blank noon,2,288,high,high,yes,
+74,228,291,cracker blank,5,286,jacks,barrel,no,
+74,229,292,hurry blank,3,290,up,up,yes,
+74,229,293,father blank,6,290,time,image,no,
+74,230,294,blank station,5,292,gas,bus,no,
+74,232,296,blank brush,5,294,hair,hair,yes,
+74,233,297,dick blank,5,294,tracy,tracy,yes,
+74,234,298,brown blank,5,296,derby,derby,yes,
+74,236,300,mighty blank,3,298,mouse,mouse,yes,
+74,237,301,blank hill,5,299,bunker,bunker,yes,
+74,238,302,blank watch,5,300,night,stop,no,
+74,241,305,arm blank,5,302,pit,wrestle,no,
+74,241,306,blank room,3,304,bed,bath,no,
+74,242,307,blank vault,5,305,bank,bank,yes,
+74,243,308,bicycle blank,3,305,built for two,built for two,yes,
+74,244,309,blank berry,5,305,blue,straw,no,
+74,245,310,blank treat,5,308,trick or,trick or,yes,
+74,246,311,blank rabbit,6,309,jack,jack,yes,
+74,247,312,blank rogers,5,310,roy,ginger,no,
+74,248,313,blank top,5,311,pop,flat,no,
+74,249,314,standard blank,6,311,oil,oil,yes,
+74,249,315,pajama blank,6,311,bottoms,tops,no,
+74,251,316,show blank,5,314,business,and tell,no,
+74,252,317,toll blank,3,314,bridge,booth,no,
+74,252,318,stark blank,3,314,naked,naked,yes,
+74,254,320,wise blank,5,318,owl,guy,no,
+74,255,321,danish blank,5,319,pastry,pastry,yes,
+74,256,322,blank corn,3,320,pop,new,no,
+74,257,323,mission blank,5,321,impossible,impossible,yes,
+74,258,324,hand blank,5,322,shake,cream,no,
+74,259,325,blank feed,5,323,chicken,chicken,yes,
+74,259,326,blank alive,3,323,buried,buried,yes,
+74,260,327,blank champion,4,323,grand,the world,no,
+74,261,328,town blank,5,323,house,crier,no,
+74,262,329,blank express,3,323,midnight,american,no,
+74,263,331,cover blank,5,328,up,up,yes,
+74,265,332,blank dinner,3,328,turkey,tv,no,
+74,265,333,lamb blank,3,331,chops,chop,yes,
+74,266,334,blank range,5,332,electric,firing,no,
+74,267,335,blank runner,5,332,long distance,road,no,
+74,268,336,blank code,5,334,morse,morse,yes,
+74,268,337,blank rack,5,334,bed,hat,no,
+74,269,338,blank affair,6,334,love,love,yes,
+74,270,339,blank ship,5,334,big,flag,no,
+74,271,340,jimmy blank,5,338,stewart,cagney,no,
+74,272,341,blank sand,6,336,play in the,quick,no,
+74,273,342,tinker blank,6,336,bell,bell,yes,
+74,274,343,shrimp blank,5,340,boat,cocktail,no,
+74,275,344,dutch blank,6,341,treat,treat,yes,
+74,275,345,pipe blank,6,341,line,dream,no,
+74,276,346,blank bay,3,341,moonlight,san francisco,no,
+74,277,347,bunny blank,5,341,hop,rabbit,no,
+74,278,348,rocket blank,3,341,ship,ship,yes,
+74,279,349,blank ranger,5,341,the lone,lone,yes,
+74,280,350,russian blank,3,341,roulette,roulette,yes,
+74,281,351,remember blank,5,348,when,the alamo,no,
+74,283,353,rear blank,5,348,end,window,no,
+74,284,354,peter blank,5,351,rabbit,rabbit,yes,
+74,285,355,blank doll,5,351,rag,baby,no,
+74,287,356,bald blank,6,351,head,eagle,no,
+74,288,357,coat of blank,3,354,arms,arms,yes,
+74,289,358,blank ray,3,355,sun,x,no,
+74,290,359,tape blank,5,356,recorder,measure,no,
+74,290,360,venus blank,6,356,de milo,de milo,yes,
+74,291,361,blank hunter,6,358,deer,deer,yes,
+74,292,362,andy blank,4,359,hardy,hardy,yes,
+74,293,363,side blank,4,359,winder,kick,no,
+74,293,364,blank club,4,359,canadian,country,no,
+74,294,365,blank out,5,359,black,strike,no,
+74,295,366,blank wax,2,363,car,floor,no,
+74,296,367,center blank,5,363,page,forward,no,
+74,297,368,back to blank,5,363,school,school,yes,
+74,298,370,watch blank,5,367,pocket,band,no,
+74,299,371,candy blank,2,368,cane,man,no,
+74,300,373,blank shooter,3,370,pea,sharp,no,
+74,301,374,best blank,5,370,man,man,yes,
+74,302,375,house blank,3,370,broken,beautiful,no,
+74,303,376,blank ring,5,370,wedding,wedding,yes,
+74,304,377,blank west,6,370,head,go,no,
+74,305,378,ancient blank,1,375,antique,history,no,
+74,306,380,shady blank,5,376,tree,lady,no,
+74,307,381,blank market,5,378,super,super,yes,
+74,308,382,round blank,5,378,house,table,no,
+74,309,383,pair of blank,5,378,shoes,shoes,yes,
+74,310,384,blank sauce,5,378,apple,tomato,no,
+74,314,386,window blank,2,384,pane,pane,yes,
+74,315,387,september blank,1,384,bride,bride,yes,
+74,315,388,day blank,5,384,school,light,no,
+74,316,389,music blank,5,384,lover,box,no,
+74,317,390,safe blank,1,388,ty,journey,no,
+74,318,391,thunder blank,2,389,bolt,bird,no,
+74,318,392,blank pot,3,390,bean,coffee,no,
+74,319,393,blank party,5,390,house,birthday,no,
+74,320,394,sentimental blank,5,392,feelings,journey,no,
+74,321,395,blank marx,5,392,groucho,groucho,yes,
+74,322,396,beach blank,3,392,bum,boy,no,
+74,323,397,blank sisters,5,392,lennon,twin,no,
+74,323,398,blank bell,1,392,cow,liberty,no,
+74,326,400,get blank,3,399,lost,lost,yes,
+74,327,401,blank canyon,5,400,grand,benedict,no,
+74,329,403,handy blank,5,401,man,wipe,no,
+74,330,404,little red blank,3,401,riding hood,riding hood,yes,
+74,331,405,missing blank,6,404,link,link,yes,
+74,332,406,billy blank,6,404,the kid,the kid,yes,
+74,332,407,cut your blank,6,404,throat,throat,yes,
+74,333,408,bean blank,5,407,bag,stalk,no,
+74,334,409,blank instrument,5,407,blunt,musical,no,
+74,336,411,juicy blank,1,410,fruit,fruit,yes,
+74,337,412,good blank,5,411,times,day,no,
+74,338,413,blank junction,1,411,petticoat,petticoat,yes,
+74,339,414,basic blank,1,411,mathematics,black,no,
+74,340,415,taxi blank,2,414,cab,cab,yes,
+74,341,416,mark of blank,5,414,zorro,zorro,yes,
+74,342,417,chest blank,1,414,x-ray,nut,no,
+74,343,418,lucky blank,5,417,strike,charm,no,
+74,344,419,blank lee,5,417,robert e.,robert e.,yes,
+74,345,420,blank loser,5,419,bad,born,no,
+74,346,421,dust blank,4,419,cloth,storm,no,
+74,347,422,astro blank,5,421,dome,dome,yes,
+74,348,423,blank paradise,5,422,fantastic,bird of,no,
+74,349,424,blank shake,5,423,milk,milk,yes,
+74,351,426,blank price,5,424,right,half,no,
+74,352,427,blank york,5,426,new,new,yes,
+74,353,428,blank wednesday,5,426,ash,any,no,
+74,354,429,minnie blank,5,428,pearl,mouse,no,
+74,355,430,blank annie,6,428,little orphan,orphan,yes,
+74,357,432,blank martin,5,431,dean,dean,yes,
+74,358,433,queen blank,5,432,elizabeth,bee,no,
+74,358,434,blank velvet,5,432,national,national,yes,
+74,359,435,i love a blank,6,432,parade,parade,yes,
+74,360,436,blank link,5,432,chain,missing,no,
+74,361,437,blank jones,5,436,tom,tomato,yes,
+74,363,439,blank jam,5,438,strawberry,traffic,no,
+74,364,441,blank nature,5,440,mother,mother,yes,
+74,366,443,who's blank,5,442,who,who,yes,
+74,367,444,december blank,5,442,bride,bride,yes,
+74,368,445,blank carol,5,444,christmas,christmas,yes,
+75,369,446,blank dandy,5,445,yankee doodle,yankee doodle,yes,
+75,370,447,blank fever,5,446,spring,scarlet,no,
+75,371,448,doc blank,2,446,severinsen,holliday,no,
+75,372,449,david and blank,5,448,goliath,goliath,yes,
+75,373,450,hudson blank,5,449,river,brothers,no,
+75,374,451,blank finn,5,450,mickey,huckleberry,no,
+75,375,452,blank morning,4,451,sunday,good,no,
+75,375,453,winston blank,2,452,churchill,churchill,yes,
+75,376,454,even blank,5,453,money,money,yes,
+75,377,455,blank dip,5,453,big,skinny,no,
+75,378,456,on top of blank,4,455,old smoky,old smoky,yes,
+75,379,457,panty blank,4,455,hose,hose,yes,
+75,380,458,bunch of blank,4,455,grapes,grapes,yes,
+75,381,459,cross blank,6,458,bearer,my heart,no,
+75,382,460,boy blank,5,458,scout,friend,no,
+75,382,461,pay blank,6,458,check,cash,no,
+75,383,462,blank frost,5,458,jack,jack,yes,
+75,384,463,oliver blank,5,462,twist,twist,yes,
+75,385,464,blank cane,5,462,sugar,sugar,yes,
+75,386,465,bar blank,5,464,bells,keeper,no,
+75,387,466,blank burn,5,464,cigarette,side,no,
+75,387,467,child blank,5,466,bride,hood,no,
+75,388,468,blank capsule,5,467,space,time,no,
+75,389,469,padded blank,3,467,cell,bra,no,
+75,390,470,puff blank,5,469,the magic dragon,pastry,no,
+75,390,471,12 o'clock blank,4,469,noon,high,no,
+75,392,473,condensed blank,6,471,version,milk,no,
+75,393,474,autumn blank,5,471,leaves,leaves,yes,
+75,394,475,blank peck,5,474,gregory,gregory,yes,
+75,395,476,loud blank,5,474,mouth,mouth,yes,
+75,396,477,bridge blank,5,476,port,port,yes,
+75,397,478,blank baby,5,476,doll,brand new,no,
+75,398,479,cool blank,1,478,man,cat,no,
+75,398,480,bath blank,5,479,tub,room,no,
+75,399,481,powder blank,1,479,puff,room,no,
+75,400,482,blank newman,6,479,paul,paul,yes,
+75,401,483,blank case,5,482,suit,brief,no,
+75,402,484,cheek blank,6,482,to cheek,to cheek,yes,
+75,403,485,blank boots,6,482,puss in,cowboy,no,
+75,404,486,blank happy,5,485,i'm,be,no,
+75,405,487,blank guide,6,486,indian,tv,no,
+75,405,488,blank and blue,6,486,black,black,yes,
+75,406,489,blank east,5,488,eden,far,no,
+75,407,490,blank jude,3,489,hey,hey,yes,
+75,408,491,human blank,5,489,being,being,yes,
+75,409,492,blank choice,5,491,first,dealer's,no,
+75,410,493,dragon blank,5,492,fly,fly,yes,
+75,412,495,lightning blank,3,492,bolt,bolt,yes,
+75,412,496,big blank,3,492,ben,ben,yes,
+75,414,497,eye blank,5,496,doctor,lash,no,
+75,415,498,face the blank,5,496,nation,music,no,
+75,417,500,dixie blank,5,499,land,cup,no,
+75,418,501,eight blank,5,500,o'clock,ball,no,
+75,419,502,blank dreamer,5,501,day,day,yes,
+75,420,503,blank nuts,5,501,pea,pea,yes,
+75,421,504,motor blank,5,503,cycle,car,no,
+75,421,505,log blank,5,504,cabin,cabin,yes,
+75,423,507,blank keeper,5,504,house,bee,no,
+75,424,508,mule blank,5,504,team,train,no,
+75,425,509,ivan blank,5,504,hoe,hoe,yes,
+75,426,510,blank net,5,504,drag,fishing,no,
+75,428,512,blank in time,5,504,just,just,yes,
+75,429,513,blank joke,5,512,dirty,practical,no,
+75,430,514,to be blank,5,513,or not to be,or not to be,yes,
+75,431,515,quick blank,5,514,draw,sand,no,
+75,432,516,barbie blank,5,514,doll,doll,yes,
+75,433,517,help blank,5,514,wanted,wanted,yes,
+75,433,518,blank paint,5,517,finger,wet,no,
+75,434,519,sam blank,6,518,snead,ervin,no,
+75,435,520,persian blank,5,519,cat,rug,no,
+75,437,521,all the blank,5,520,king's men,way,no,
+75,438,522,esther blank,5,520,williams,williams,yes,
+75,439,523,elementary blank,5,520,my dear watson,my dear watson,yes,
+75,440,524,india blank,5,520,blue,ink,no,
+75,441,525,jump blank,5,520,for joy,rope,no,
+75,442,526,garden of blank,5,525,eden,eden,yes,
+75,443,527,blank ocean,2,526,pacific,pacific,yes,
+75,444,528,number blank,5,526,one,one,yes,
+75,446,529,blank lib,5,528,women's,women's,yes,
+75,447,530,poker blank,5,529,player,chip,no,
+75,447,531,simon and blank,2,530,garfunkel,garfunkel,yes,
+75,448,532,play it blank,2,530,again sam,again sam,yes,
+75,449,533,blank sharp,2,530,super,razor,no,
+75,450,534,slice of blank,6,533,cake,life,no,
+75,451,535,blank tray,5,534,silver,ash,no,
+75,452,536,blank crossing,5,535,pedestrian,railway,no,
+75,453,537,grape blank,2,536,vine,nuts,no,
+75,454,538,stranger in blank,2,536,the night,paradise,no,
+75,455,539,will blank,5,536,and testimony,you,no,
+75,456,540,napoleon blank,5,539,bonaparte,bonaparte,yes,
+75,457,541,wagon blank,5,539,trail,train,no,
+75,458,542,blank fairy,5,539,tooth,tooth,yes,
+75,460,543,hungarian blank,5,539,dance,goulash,no,
+75,461,544,blank mason,5,539,perry,james,no,
+75,462,545,chocolate blank,5,544,cake,cake,yes,
+75,463,546,bridge over blank,4,544,troubled waters,troubled waters,yes,rule instituted: returning champions may not call on the same panelist twice in a row
+75,464,547,char blank,5,546,coal,broiled,no,
+75,465,548,kit blank,6,547,carson,carson,yes,
+75,466,549,forbidden blank,5,548,garden,fruit,no,
+75,467,550,mini blank,5,549,skirt,mouse,no,
+75,468,551,robin blank,5,550,hood,hood,yes,
+75,469,552,blank pal,5,551,pen,pen,yes,
+75,470,553,blank nights,5,552,a thousand and one,arabian,yes,
+75,471,554,slot blank,2,552,machine,machine,yes,
+75,472,555,yorkshire blank,5,552,pudding,pudding,yes,
+75,473,556,blank williams,5,555,andy,esther,no,
+75,474,557,polka blank,1,555,dot,dot,yes,
+75,475,558,board blank,5,555,room,walk,no,
+75,476,559,partridge blank,1,558,family,family,yes,
+75,477,560,tidal blank,5,559,wave,wave,yes,
+75,478,561,blank town,5,560,china,ghost,no,
+75,479,562,smoke blank,2,560,ring,rings,yes,
+75,479,563,right blank,5,560,on,turn,no,
+75,480,564,second blank,2,560,hand,chance,no,
+75,481,565,alphabet blank,5,564,soup,soup,yes,
+75,482,566,danny blank,5,565,boy,boy,yes,
+75,483,567,blank bride,5,565,zandy's,december,no,rule rescinded
+75,483,568,cheese blank,5,567,spread,cake,no,
+75,484,569,poison blank,5,567,ivy,ivy,yes,
+75,485,570,blank bottle,5,569,empty,baby's,no,
+75,486,571,hay blank,2,569,ride,ride,yes,
+75,487,572,palm blank,5,569,tree,tree,yes,
+75,488,573,blank mask,5,569,black,halloween,no,
+75,489,574,far blank,5,573,away,east,no,
+75,490,575,blank connors,2,573,chuck,mike,no,
+75,490,576,screen blank,2,573,blinds,door,no,
+75,491,577,sterling blank,5,573,silver,silver,yes,
+75,492,578,blank clown,2,577,bozo the,circus,no,
+75,493,579,drag blank,5,577,strip,race,no,
+75,494,580,bowl of blank,3,579,soup,soup,yes,
+75,495,581,labor blank,3,580,union,pains,no,
+75,497,583,blank jerk,5,582,up,soda,no,
+75,498,584,atomic blank,6,583,bomb,bomb,yes,
+75,499,585,blank language,5,583,foreign,foreign,yes,
+75,500,586,blank holiday,6,583,spring,summer,no,
+75,501,587,blank lens,6,583,contact,camera,no,
+75,502,588,blank ice,5,583,dry,crushed,no,
+75,503,589,pancho blank,5,588,villa,gonzales,no,
+75,504,590,blank peel,5,589,banana,orange,no,
+75,505,591,blank nick,5,589,saint,beat,no,
+75,506,592,cloud blank,5,591,burst,nine,no,
+75,507,594,blank atlas,5,593,world,charles,no,
+75,508,595,arabian blank,3,593,night,nights,yes,
+75,509,596,dolly blank,5,595,madison,madison,yes,
+75,510,597,cecil blank,2,595,b. demille,b. demille,yes,
+75,511,598,down to blank,5,595,earth,earth,yes,
+75,512,599,hydrogen blank,5,598,peroxide,peroxide,yes,
+75,513,600,high school blank,5,599,graduation,play,no,
+75,514,601,magic blank,5,600,wand,trick,no,
+75,515,602,glass of blank,2,601,crystal,milk,no,
+75,516,603,blank clip,2,601,paper,paper,yes,
+75,517,604,blank pet,5,603,teacher's,teacher's,yes,
+75,518,605,forest blank,2,603,lawn,fire,no,
+75,519,606,note blank,5,603,paper,paper,yes,
+75,520,607,thomas blank,5,603,edison,edison,yes,
+75,522,609,beautiful blank,5,607,baby,baby,yes,
+75,523,610,blank dance,5,607,tap,tap,yes,
+75,525,611,blank block,5,607,building,building,yes,
+75,525,612,hall of blank,5,607,fame,ivy,no,
+75,526,613,fifty blank,5,607,dollars,fifty,no,
+75,527,614,harbor blank,5,613,lights,lights,yes,
+75,528,615,blank panther,5,613,pink,pink,yes,
+75,528,616,queen of blank,1,615,hearts,hearts,yes,
+75,529,617,blank sign,2,616,stop,stop,yes,
+75,530,618,trap blank,3,617,door,door,yes,
+75,531,619,blank pound,5,617,dog,dog,yes,
+75,532,620,pieces of blank,3,619,eight,dreams,no,
+75,533,621,blank prize,5,619,booby,first,no,
+75,534,622,roy blank,5,619,rogers,rogers,yes,
+75,535,623,blank hepburn,5,619,katharine,katharine,yes,
+75,536,624,blank row,3,623,front,first,no,
+75,537,625,blank storm,3,624,thunder,snow,no,
+75,538,626,blank pox,6,624,chicken,chicken,yes,
+75,539,627,yule blank,5,626,time,tide,no,
+75,540,628,blank rat,5,627,pack,king,no,
+75,541,629,pass the blank,2,627,salt and pepper,buck,no,
+75,541,630,blank five,5,627,after,take,no,
+75,542,631,blank frog,5,627,leap,bull,no,
+75,543,632,blank clark,5,631,gable,petula,no,
+75,544,633,chico blank,5,631,and the man,and the man,yes,
+75,545,634,blank scout,5,633,boy,boy,yes,
+75,547,636,blank date,5,634,blind,blind,yes,
+75,548,637,natural blank,5,636,blonde,gas,no,
+75,549,638,blank cutter,5,636,meat,glass,no,
+75,550,639,liberty blank,5,638,bell,bell,yes,
+75,552,641,donald blank,5,640,duck,duck,yes,
+75,553,642,type blank,5,641,writer,writer,yes,
+75,554,643,blank pink,5,642,light,shocking,no,
+75,555,644,blank shorts,6,643,boxer,jockey,no,
+75,557,646,soda blank,5,643,cracker,pop,no,
+75,558,647,blank bud,5,643,rose,rose,yes,
+75,559,648,ace blank,5,643,of spades,in the hole,no,
+75,560,649,blank motors,5,648,general,general,yes,
+75,561,650,william blank,2,648,tell,tell,yes,
+75,562,651,wheat blank,5,648,germ,germ,yes,
+75,563,652,blank tie,6,648,bow,bow,yes,
+75,564,653,roman blank,5,648,numeral,empire,no,
+75,565,654,blank mat,2,648,door,bath,no,
+75,566,655,cole blank,5,654,porter,slaw,no,
+75,569,657,blank shirt,1,656,t-,sport,no,
+75,570,658,judy blank,5,656,holliday,garland,no,
+75,570,659,blank franklin,5,658,ben,ben,yes,
+75,572,660,blank shot,5,658,bank,gun,no,
+75,573,661,blank sick,2,660,tick,home,no,
+75,574,662,go for blank,5,661,broke,broke,yes,
+75,576,664,blank tent,5,663,pup,pup,yes,
+75,577,665,cup blank,5,663,hook,and saucer,no,
+75,578,666,blank kong,5,663,king,king,yes,
+75,580,668,blank tracy,5,666,dick,dick,yes,
+75,581,669,somewhere blank,5,666,over the rainbow,over the rainbow,yes,
+75,582,670,blank rich,5,644,filthy,charlie,no,
+75,582,671,blank sack,5,669,gunny,knap,no,
+75,583,672,tunnel blank,5,670,of love,of love,yes,
+75,584,673,blank set,5,671,jet,sun,no,
+75,585,675,katherine blank,4,671,hepburn,hepburn,yes,
+75,586,676,blank along,5,674,hop,hop,yes,
+75,587,677,blank coach,5,675,football,stage,no,
+75,589,679,blank crush,5,677,orange,orange,yes,
+75,590,680,hour blank,5,678,glass,glass,yes,
+75,591,681,blank light,5,678,night,electric,no,
+75,592,682,above blank,5,680,ground,board,no,
+75,593,683,middle of the blank,5,680,road,road,yes,
+75,594,684,mouse blank,5,682,trap,trap,yes,
+75,595,685,blank machine,5,683,sewing,slot,no,
+75,596,686,blank heat,5,684,summer,steam,no,
+75,596,687,fourth blank,5,684,of july,of july,yes,
+75,598,688,blank beam,5,686,laser,moon,no,
+75,599,689,blank men,1,686,gentle,chess,no,
+75,600,690,letter blank,5,688,opener,opener,yes,
+75,601,691,left blank,1,688,hook,face,no,
+75,602,692,twin blank,5,690,girls,beds,no,
+75,603,693,tennis blank,5,691,racket,racket,yes,
+75,604,694,counter blank,5,691,attack,top,no,
+75,605,695,trail blank,5,691,blazer,blazer,yes,
+75,606,696,nervous blank,5,691,breakdown,breakdown,yes,
+75,607,697,blank test,5,691,con,driving,no,
+75,608,698,virginia blank,5,696,slims,graham,no,
+75,610,700,blank trick,5,698,halloween,magic,no,
+75,611,701,whirl blank,5,698,wind,pool,no,
+75,612,702,grave blank,5,699,digger,digger,yes,
+75,613,703,jump on the blank,5,699,bandwagon,trampoline,no,
+75,614,704,blank punishment,5,701,capital,capital,yes,
+75,616,705,pit blank,5,701,pat,stop,no,
+75,617,706,graham blank,5,703,cracker,crackers,yes,
+76,619,708,teacher's blank,5,705,pet,pet,yes,
+76,620,709,blank buttons,5,706,coat,red,no,
+76,621,710,fog blank,5,707,cloud,horn,no,
+76,622,711,dental blank,5,708,floss,floss,yes,
+76,622,712,blank policy,5,709,insurance,insurance,yes,
+76,624,713,tug blank,4,710,boat,boat,yes,
+76,625,714,blank whip,4,710,miracle,cream,no,
+76,625,715,whistle blank,4,710,ing dixie,stop,no,
+76,627,716,roast blank,5,713,chicken,beef,no,
+76,628,718,hit and blank,3,713,run,run,yes,
+76,629,719,stop blank,5,716,light,sign,no,
+76,630,720,tree blank,5,717,trunk,house,no,
+76,631,721,blank collection,3,718,stamp,stamp,yes,
+76,632,722,coral blank,5,719,reef,reef,yes,
+76,633,723,blank cage,4,720,lion,bird,no,
+76,634,724,blank fidelity,1,720,in,high,no,
+76,635,725,blank door,5,722,back,front,no,
+76,636,726,blank paste,5,723,school,tooth,no,
+76,638,728,blank of fortune,5,723,wheel,wheel,yes,
+76,639,729,blank wave,2,723,permanent,tidal,no,
+76,641,731,blank parks,2,728,bert,bert,yes,
+76,642,732,lamp blank,5,728,shade,post,no,
+76,643,733,blank pass,6,730,forward,forward,yes,
+76,644,734,blank truth,6,730,to tell the,to tell the,yes,
+76,646,736,lorna blank,5,730,doone,doone,yes,
+76,647,737,blank lighter,5,733,cigarette,cigarette,yes,
+76,648,738,blank zone,5,732,safety,parking,no,
+76,649,739,blank ice cream,5,734,chocolate,choc,yes,
+76,649,740,after blank,5,734,dinner,noon,no,
+76,650,741,state blank,5,736,capital,fair,no,
+76,651,742,blank puss,5,737,lion,sour,no,
+76,653,743,cherry blank,5,738,pie,pie,yes,
+76,654,744,get on the blank,5,738,ball,ball,yes,
+76,654,745,suit of blank,5,738,armor,armor,yes,
+76,655,746,blank the man,5,741,shoot,stan,no,
+76,656,747,blank jelly,5,742,grape,grape,yes,
+76,657,748,blank pie,5,742,apple,apple,yes,
+76,658,749,blank player,5,742,baseball,record,no,
+76,659,750,blank walk,5,742,side,side,yes,
+76,660,751,police blank,5,746,man,story,no,
+76,661,752,tall blank,5,746,dark stranger,dark and handsome,no,
+76,662,753,milk and blank,5,746,cookies,cookies,yes,
+76,663,754,blank stamp,2,749,postage,postage,yes,
+76,664,755,new blank,2,749,year,year,yes,
+76,665,756,blank oats,2,749,quaker,quaker,yes,
+76,666,757,cat's blank,5,749,meow,whiskers,no,
+76,667,758,enchanted blank,5,753,evening,forest,no,
+76,668,759,blank web,1,753,spider,spider,yes,
+76,669,760,race blank,1,753,horse,horse,yes,
+76,671,762,blank arm,5,757,broken,fire,no,
+76,672,763,barn blank,5,757,yard,yard,yes,
+76,672,764,toy blank,5,757,poodle,boat,no,
+76,674,765,blank salad,5,760,caesar,fruit,no,
+76,674,766,blank point,1,760,west,west,yes,
+76,675,767,blank shelf,4,760,top,book,no,
+76,676,768,blank hutch,5,760,china,rabbit,no,
+76,677,769,blank pump,5,760,gas,gas,yes,
+76,678,770,blank ticket,5,760,admittance,theater,no,
+76,679,772,space blank,5,767,module,capsule,no,
+76,680,773,blank ives,5,768,burl,burl,yes,
+76,681,774,touch blank,5,768,down,football,no,
+76,682,775,make a blank,5,770,cake,wish,no,
+76,683,776,off to the blank,5,770,races,races,yes,
+76,684,777,loretta blank,5,770,young,young,yes,
+76,685,778,spider blank,5,770,legs,web,no,
+76,686,779,carbon blank,5,774,monoxide,paper,no,
+76,687,780,skid blank,5,775,row,row,yes,
+76,688,781,blank magazine,5,776,time,playboy,no,
+76,690,783,howdy blank,2,778,doody,doody,yes,
+76,691,784,steel blank,2,778,rod,band,no,
+76,692,785,stand on your blank,2,778,head,feet,no,
+76,694,787,blank knock,6,782,knock,please,no,
+76,694,788,blank margaret,5,783,ann,ann,yes,
+76,695,789,blank trot,5,784,hot to,fox,no,
+76,696,790,get out of blank,5,784,here,town,no,
+76,698,791,basket blank,5,786,ball,ball,yes,
+76,699,792,bus blank,5,786,ride,stop,no,
+76,699,793,medical blank,5,788,bag,center,no,
+76,701,794,irving blank,5,788,berlin,berlin,yes,
+76,702,795,outer blank,5,790,space,space,yes,
+76,703,796,blank marx,5,790,karl,groucho,no,
+76,704,797,wooden blank,5,792,leg,indian,no,
+76,705,798,bald blank,5,792,eagle,head,no,
+76,706,799,copy blank,5,794,machine,cat,no,
+76,707,800,ugly blank,3,794,duckling,duckling,yes,
+76,708,801,hammer and blank,3,794,nails,nails,yes,
+76,709,803,blank instrument,3,794,musical,musical,yes,
+76,710,804,sunday blank,3,794,papers,morning,no,
+76,711,805,sentimental blank,3,800,reasons,journey,no,
+76,712,806,sammy blank,3,800,davis,davis,yes,
+76,713,807,strip blank,3,802,poker,poker,yes,
+76,714,808,throw blank,5,803,up,up,yes,
+76,715,809,stuffed blank,5,804,animal,turkey,no,
+76,716,810,london blank,3,804,bridges,bridge,yes,
+76,717,811,blank headache,3,804,splitting,migraine,no,
+76,718,812,arm and blank,6,807,hammer,hammer,yes,
