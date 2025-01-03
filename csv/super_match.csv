@@ -302,7 +302,7 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 74,238,302,moonlight blank,Richard Dawson,serenade,Charles Nelson Reilly,sonata,Brett Somers,in vermont,Judy Petty,bay,sonata,bay,serenade,250
 74,238,303,time blank,Richard Dawson,table,Brett Somers,bomb,Charles Nelson Reilly,clock,Judy Petty,table,bomb,clock,out,0
 74,239,304,snap blank,Richard Dawson,crackle and pop,Joyce Bulifant,dragon,Loretta Swit,judgment,Beth Horning,judgment,shot,dragon,crackle and pop,0
-74,240,305,hip blank,Richard Dawson,hip hooray,Loretta Swit,hugger,Brett Somers,pity hop,Beth Horning,hugger,bone,hip hooray,hugger,500
+74,241,305,hip blank,Richard Dawson,hip hooray,Elaine Joyce,hugger,Brett Somers,pity hop,Beth Horning,hugger,bone,hip hooray,hugger,500
 74,241,306,buster blank,Charles Nelson Reilly,brown,Brett Somers,crabbe,Richard Dawson,,Timothy O'Keefe,crabbe,crabbe,keaton,brown,100
 74,242,307,t-blank,Don Adams,shirt,Mitzi McCall,pee,Richard Dawson,bone,Sandy Corey,bone,bone steak,bird,shirt,100
 74,243,308,canadian blank,Charles Nelson Reilly,national railroad,Don Adams,royal mounted police,Richard Dawson,club,Sandy Corey,club,club,bacon,mounted police,100
@@ -592,8 +592,8 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 75,507,594,blank monkey,Bert Convy,brass,Richard Dawson,grease,Joyce Bulifant,swinging,Diane Armijo,grease,spider,brass,grease,500
 75,508,595,blank core,Brett Somers,hard,Charles Nelson Reilly,apple,Richard Dawson,rotten to the,Diane Armijo,apple,rotten to the,hard,apple,500
 75,509,596,trench blank,Bert Convy,mouth,Charles Nelson Reilly,coat,Richard Dawson,hand,Oliver Chamberlain,coat,digger,mouth,coat,500
-75,510,597,blank order,Brett Somers,out of,Joyce Bulifant,short,Richard Dawson,direct,Beverly Hill,out of,short,law and,out of,500
-75,511,598,blank pit,Brett Somers,snake,Richard Dawson,cherry,Fannie Flagg,barbecue,Janet Judiceci,snake,barbecue,arm,snake,500
+75,510,597,blank order,Brett Somers,out of,Joyce Bulifant,short,Richard Dawson,direct,Oliver Chamberlain,out of,short,law and,out of,500
+75,511,598,blank pit,Brett Somers,snake,Richard Dawson,cherry,Fannie Flagg,barbecue,Oliver Chamberlain,snake,barbecue,arm,snake,500
 75,512,599,wall blank,Brett Somers,paper,Richard Dawson,street,Fannie Flagg,nut,Nita Braley,street,flower,street,paper,250
 75,513,600,small blank,Richard Dawson,world,Charles Nelson Reilly,wonder,Fannie Flagg,talk,Judy Norton,world,talk,world,fry,250
 75,514,601,blank trunk,Brett Somers,vaudeville,Richard Dawson,elephant's,Fannie Flagg,born in a,Warren Weinstock,elephant's,car,tree,elephant,500
@@ -830,9 +830,9 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 76,740,833,lover's blank,Fannie Flagg,lane,Richard Dawson,quarrel,Charles Nelson Reilly,leap,Andy Lee,leap,leap,quarrel,lane,100
 76,741,834,blank stones,Richard Dawson,rolling,George Kennedy,gall,Brett Somers,flint,Andy Lee,rolling,sticks and,gall,rolling,500
 76,742,835,brand blank,George Kennedy,x,Charles Nelson Reilly,new,Richard Dawson,name,Rory DeMeire,new,new,x,name,100
-76,743,836,chest blank,Richard Dawson,x-ray,George Kennedy,pains,Brett Somers,cold,Robbie Zollars,x-ray,nut,of drawers,x-ray,500
-76,744,837,chow blank,Richard Dawson,mein,George Kennedy,hound,Donna Mills,down,Robbie Zollars,mein,chow,time,mein,500
-76,745,838,blank lear,George Kennedy,king,Charles Nelson Reilly,norman,Richard Dawson,queen,Robbie Zollars,norman,bill,king,norman,500
+76,743,836,chest blank,Richard Dawson,x-ray,George Kennedy,pains,Brett Somers,cold,Rory DeMeire,x-ray,nut,of drawers,x-ray,500
+76,744,837,chow blank,Richard Dawson,mein,George Kennedy,hound,Donna Mills,down,Rory DeMeire,mein,chow,time,mein,500
+76,745,838,blank lear,George Kennedy,king,Charles Nelson Reilly,norman,Richard Dawson,queen,Rory DeMeire,norman,bill,king,norman,500
 76,745,839,t blank,Brett Somers,shirt,Richard Dawson,bone,Charles Nelson Reilly,formation,Marjorie Hart,shirt,bone,bird,shirt,500
 76,746,840,joey blank,Brett Somers,bishop,Richard Dawson,lewis,Charles Nelson Reilly,faye,Marjorie Hart,bishop,brown,heatherton,bishop,500
 76,747,841,arrow blank,Joey Bishop,smith,Richard Dawson,root,Brett Somers,head,Larry Guthrie,head,shirt,smith,head,500
@@ -854,3 +854,40 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 76,763,857,blank stick,Lee Meriwether,lip,Richard Dawson,match,Brett Somers,pogo,Ralph Goldsmith,lip,big,lip,pogo,250
 76,763,858,hot and blank,Richard Dawson,cold,Brett Somers,heavy,Lee Meriwether,spicy,Ralph Goldsmith,cold,heavy,nasty,cold,500
 76,765,859,run for blank,Lee Meriwether,your life,Richard Dawson,the money,Brett Somers,cover,Ralph Goldsmith,your life,president,the money,your life,500
+76,766,860,birth blank,Richard Dawson,day,Fannie Flagg,control,Brett Somers,rate,Patty Bradford,day,place,control,day,500
+76,767,861,blank wonder,Richard Dawson,stevie,Fannie Flagg,is it any,Brett Somers,boy,Patty Bradford,stevie,no,boy,stevie,500
+76,768,862,ultra blank,Richard Dawson,violet,Fannie Flagg,chic,Brett Somers,brite,Patty Bradford,brite,sheen,brite,violet,250
+76,768,863,blank range,Richard Dawson,home on the,Fannie Flagg,oven,Brett Somers,firing,Patty Bradford,home on the,long,rifle,home on the,500
+76,769,864,love me blank,Brett Somers,love my wife,Richard Dawson,or leave me,Fannie Flagg,tender,Helen Dillon,or leave me,love me not,or leave me,tender,250
+76,770,865,get blank,Fannie Flagg,going,Charles Nelson Reilly,well soon,Brett Somers,lost,Helen Dillon,well soon,down,lost,smart,0
+76,771,866,ritz blank,Richard Dawson,cracker,Brett Somers,carlton,Soupy Sales,brothers,Helen Dillon,cracker,carlton,brothers,cracker,500
+76,772,867,i got you blank,Richard Dawson,covered,Brett Somers,under my skin,Charles Nelson Reilly,where i want you,Luis Alonzo,under my skin,covered,under my skin,babe,250
+76,773,868,blank thomas,Richard Dawson,danny,Betty White,lowell,Madlyn Rhue,doubting,Brenda Maher,danny,marlo,doubting,danny,500
+76,774,869,head of blank,Brett Somers,state,Richard Dawson,lettuce,Betty White,the house,Brenda Maher,the house,lettuce,state,the house,500
+76,775,870,annie blank,Betty White,get your gun,Richard Dawson,oakley,Madlyn Rhue,fanny,Brenda Maher,oakley,green springs,get your gun,oakley,500
+76,776,871,blank it off,Brett Somers,take,Charles Nelson Reilly,knock,Richard Dawson,get,Trevor Dornbusch,take,rip,knock,take,500
+76,776,872,arnold blank,Ron Palillo,horshack,Brett Somers,palmer,Richard Dawson,stang,Trevor Dornbusch,palmer,the pig,horshack,palmer,500
+76,777,873,kissing blank,Richard Dawson,cousins,Charles Nelson Reilly,bandit,Brett Somers,booth,Maureen Hughes,cousins,game,disease,cousins,500
+76,778,874,blank limits,Brett Somers,outer,Richard Dawson,off,Charles Nelson Reilly,within,Britt Jackson,outer,city,off,outer,500
+76,779,875,boston blank,Richard Dawson,tea party,Charles Nelson Reilly,strangler,Joyce Bulifant,baked beans,Patty Wyer,tea party,strangler,baked beans,tea party,500
+76,780,876,shake blank,Richard Dawson,and bake,Brett Somers,a leg,Charles Nelson Reilly,rattle and roll,Patty Wyer,and bake,hands,rattle and roll,and bake,500
+76,781,877,lie blank,Fannie Flagg,detector,Richard Dawson,down,Patty Duke Astin,a lot,Patty Wyer,detector,still,down,detector,500
+76,782,878,glen blank,Richard Dawson,campbell,Patty Duke Astin,ford,Brett Somers,miller,Gay Darnell,campbell,miller,ford,campbell,500
+76,783,879,blank bear,Richard Dawson,smokey the,Patty Duke Astin,teddy,Fannie Flagg,yogi,Gay Darnell,smokey the,yogi,teddy,smokey the,500
+76,784,880,blank soda,Brett Somers,club,Bert Convy,bicarbonate of,Charles Nelson Reilly,ice cream,Gay Darnell,ice cream,scotch and,baking,ice cream,500
+76,784,881,pen blank,Fannie Flagg,pal,Charles Nelson Reilly,knife,Richard Dawson,and pencil,Linda Akers,pal,manship,and pencil,pal,500
+76,786,882,blank lark,Brett Somers,sky,Betty White,meadow,Richard Dawson,mud,Mike Eskew,meadow,happy as a,sky,meadow,500
+76,787,883,sleepy blank,Lynn Deerfield,hollow,Brett Somers,time gal,Charles Nelson Reilly,lagoon,Mike Eskew,hollow,time gal,head,hollow,500
+76,788,884,blank hopper,Richard Dawson,grass,Brett Somers,hedda,Betty White,dennis,Paula Quaid,grass,bar,hedda,grass,500
+76,789,885,sore blank,Richard Dawson,loser,Betty White,throat,Charles Nelson Reilly,head,Muriel Zlotnikoff,loser,head,loser,throat,250
+76,790,886,virgin blank,Brett Somers,mary,Betty White,islands,Richard Dawson,queen,Al Walker,islands,wool,islands,mary,250
+76,791,887,walk the blank,Charles Nelson Reilly,plank,Trish Stewart,line,Patti Deutsch,straight and narrow,Al Walker,line,dog,plank,line,500
+76,792,888,days of blank,Charles Nelson Reilly,wine and roses,Richard Dawson,our lives,Brett Somers,yore,Ruth Sherwin,our lives,the week,wine and roses,our lives,500
+76,793,889,blank bench,Richard Dawson,johnny,Charles Nelson Reilly,park,Brett Somers,the,Ruth Sherwin,johnny,park,work,johnny,500
+76,794,890,cry blank,Brett Somers,me a river,Richard Dawson,baby,Charles Nelson Reilly,havoc,Jerri Gay,baby,me a river,wolf,baby,500
+76,795,891,everything blank,Trish Stewart,s coming up roses,Brett Somers,goes,Edward Asner,for nothing,Lyle Bliss,goes,s coming up roses,is beautiful,goes,500
+76,796,892,bon blank,Richard Dawson,voyage,Brett Somers,bons,Fannie Flagg,wit teller,Kathy Whitehead,voyage,fire,bons,voyage,500
+76,797,893,marty blank,Richard Dawson,allen,Dick Gautier,feldman,Fannie Flagg,ingels,Joseph May,feldman,gras,feldman,allen,250
+76,798,894,looking blank,Fannie Flagg,good,Charles Nelson Reilly,glass,Richard Dawson,bad,Roberta Rollins,good,back,glass,good,500
+76,799,895,jolly blank,Richard Dawson,green giant,Dick Gautier,roger,Fannie Flagg,good fellow,Mary VanMeer,green giant,old saint nick,roger,green giant,500
+76,800,896,smoking blank,Richard Dawson,jacket,Charles Nelson Reilly,car,Dick Gautier,section,Mary VanMeer,jacket,pot,jacket,prohibited,250
