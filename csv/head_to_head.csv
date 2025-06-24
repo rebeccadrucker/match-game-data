@@ -37,10 +37,10 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 73,29,44,private blank,Sue Yannick,eye,Bert Convy,entrance,no
 73,30,45,richard blank,Bob Rolfe,burton,Carolyn Jones,burton,yes
 73,31,46,blank tooth,Bob Rolfe,aching,Richard Dawson,wisdom,no
-73,31,47,tom blank,Jennifer Somerset,smothers,Richard Dawson,thumb,no
-73,32,48,washing blank,Jennifer Somerset,machine,Jack Carter,machine,yes
-73,33,49,blank tower,Jennifer Somerset,eiffel,Bert Convy,ivory,no
-73,33,50,charm blank,Jennifer Somerset,bracelet,Jack Carter,bracelet,yes
+73,31,47,tom blank,Jennifer Summerset,smothers,Richard Dawson,thumb,no
+73,32,48,washing blank,Jennifer Summerset,machine,Jack Carter,machine,yes
+73,33,49,blank tower,Jennifer Summerset,eiffel,Bert Convy,ivory,no
+73,33,50,charm blank,Jennifer Summerset,bracelet,Jack Carter,bracelet,yes
 73,35,52,blue blank,Georgianna Dye,danube,Jack Carter,bird,no
 73,35,53,bob blank,Tom Garnella,smith,Lucie Arnaz,cat,no
 73,36,54,wall blank,Tom Garnella,paper,Richard Dawson,street,no
@@ -666,9 +666,9 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 76,639,733,blank wave,Bill Dotson,permanent,Brett Somers,tidal,no
 76,641,735,blank parks,Susie Parker,bert,Brett Somers,bert,yes
 76,642,736,lamp blank,Susie Parker,shade,Richard Dawson,post,no
-76,643,737,blank pass,Terry Donaugh,forward,Betty White,forward,yes
-76,644,738,blank truth,Terry Donaugh,to tell the,Betty White,to tell the,yes
-76,646,740,lorna blank,Terry Donaugh,doone,Richard Dawson,doone,yes
+76,643,737,blank pass,Terry Donath,forward,Betty White,forward,yes
+76,644,738,blank truth,Terry Donath,to tell the,Betty White,to tell the,yes
+76,646,740,lorna blank,Terry Donath,doone,Richard Dawson,doone,yes
 76,647,741,blank lighter,Judy Hoff,cigarette,Richard Dawson,cigarette,yes
 76,648,742,blank zone,Eleanor Forman,safety,Richard Dawson,parking,no
 76,649,743,blank ice cream,Valerie Shortino,chocolate,Richard Dawson,choc,yes
@@ -1200,7 +1200,7 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 78,1182,1324,security blank,Ginny Micek,police,Richard Dawson,blanket,no
 78,1183,1325,the march of blank,Ginny Micek,dimes,Richard Dawson,dimes,yes
 78,1184,1327,the detroit blank,Patty Currier,tigers,Richard Dawson,lions,no
-78,1185,1328,blank what,Patty Currier,so,Richard Dawson,soup,yes
+78,1185,1328,blank what,Patty Currier,so,Richard Dawson,so,yes
 78,1187,1330,state blank,Patty Currier,of the union,Richard Dawson,trooper,no
 78,1188,1331,upset blank,Patty Currier,stomach,Richard Dawson,stomach,yes
 78,1189,1332,blank reckoning,Patty Currier,new,Richard Dawson,day of,no
@@ -1235,3 +1235,52 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 78,1221,1366,skate blank,Mary Porter,board,Richard Dawson,board,yes
 78,1223,1368,blank science,Mary Porter,fiction,Richard Dawson,political,no
 78,1223,1369,lower the blank,Mary Porter,boom,Richard Dawson,boom,yes
+78,1224,1370,fork blank,Mary Porter,lift,Richard Dawson,lift,yes
+78,1225,1371,blank thieves,Margaret Finley,den of,Richard Dawson,40,no
+78,1226,1372,swinging blank,Margaret Finley,singles,Elaine Joyce,single,yes
+78,1228,1374,checker blank,Linda Morzinski,board,Richard Dawson,board,yes
+78,1229,1375,crowded blank,Linda Morzinski,audience,Richard Dawson,room,no
+78,1230,1376,blank of chicken,Marge Gassmann,breast,Richard Dawson,breast,yes
+78,1231,1377,blank donut,Cathy Porter,chocolate,Richard Dawson,jelly,no
+78,1232,1378,blank charger,Cathy Porter,dodge,Richard Dawson,battery,no
+78,1233,1380,grain of blank,Diana Lobosky,wheat,Richard Dawson,salt,no
+78,1234,1381,grocery blank,Diana Lobosky,store,Richard Dawson,list,no
+78,1235,1382,wayne blank,Wendy Thornton,newton,Richard Dawson,newton,yes
+78,1236,1383,blank sweat,Wendy Thornton,no,Richard Dawson,cold,no
+78,1237,1384,blank anniversary,Laura Whipple,happy,Richard Dawson,happy,yes
+78,1238,1385,blank animals,Laura Whipple,wild,Richard Dawson,wild,yes
+78,1240,1387,star of blank,Gary Knight,bethlehem,Richard Dawson,david,no
+78,1241,1388,blank gap,Gary Knight,generation,Richard Dawson,generation,yes
+78,1241,1389,weather blank,Gary Knight,report,Richard Dawson,forecast,no
+78,1242,1390,tone blank,Patty Wright,er,Richard Dawson,deaf,no
+78,1243,1391,department of blank,Patty Wright,unemployment,Richard Dawson,water and power,no
+78,1243,1392,little big blank,Patty Wright,horn,Richard Dawson,horn,yes
+78,1244,1393,football blank,Patty Wright,field,Richard Dawson,game,no
+78,1245,1394,tour blank,Cindy Garmin,guide,Brett Somers,guide,yes
+78,1246,1395,blank bowling,Cindy Garmin,pro,Richard Dawson,celebrity,no
+78,1247,1396,cool as blank,Cindy Garmin,ice,Charles Nelson Reilly,a cucumber,no
+78,1248,1397,cream and blank,Sarai Amado,sugar,Brett Somers,sugar,yes
+78,1249,1398,shoot for blank,Jim Smajdek,the moon,Richard Dawson,the stars,no
+78,1250,1399,blank comics,Jim Smajdek,stand-up,Richard Dawson,newspaper,no
+78,1251,1400,blank fiction,Kathy Kreps,science,Brett Somers,science,yes
+78,1252,1401,blank marker,Kathy Kreps,magic,Richard Dawson,magician's,yes
+78,1252,1402,blank phone call,Mary McCabe,obscene,McLean Stevenson,obscene,yes
+78,1253,1403,blank lawrence,Madolyn LaMonica,steve,Richard Dawson,steve,yes
+78,1254,1404,blank security,Madolyn LaMonica,top,Brett Somers,social,no
+78,1255,1405,sacred blank,Dolores Alix,heart,Betty White,heart,yes
+78,1256,1406,the house of blank,Larry Shelburg,ill repute,Charles Nelson Reilly,ill repute,yes
+78,1258,1408,blank register,Sherry Adams,cash,Richard Dawson,cash,yes
+78,1259,1409,scrub blank,Bill Stevens,brush,Debralee Scott,brush,yes
+78,1260,1410,the new york blank,Bill Stevens,times,Debralee Scott,times,yes
+78,1261,1411,lieutenant blank,Bill Stevens,colonel,Susan Richardson,commander,no
+78,1262,1412,blank of soup,Bill Stevens,bowl,Fannie Flagg,bowl,yes
+78,1262,1413,blank boiler,Pat Boleman,gas,Susan Richardson,double,no
+78,1263,1414,blank deed,Katy Schwarz,trust,Fannie Flagg,good,no
+78,1264,1415,blank as rain,Major Frost,right,Susan Richardson,right,yes
+78,1265,1416,blank and gray,Lavon Wiggins,old,Charles Nelson Reilly,old,yes
+78,1266,1417,blank animal,Maggie Wilson,wild,Bonnie Franklin,wild,yes
+78,1267,1418,blank steak,Roger Campbell,tenderized,Marcia Wallace,sirloin,no
+78,1267,1419,blank drums,Roger Campbell,bongo,Bonnie Franklin,bongo,yes
+78,1268,1420,blank farmer,Roger Campbell,wheat,Bonnie Franklin,gentleman,no
+78,1269,1421,blank the cards,Renee McKinney,deal,Brett Somers,shuffle,no
+78,1270,1422,blank tool,Renee McKinney,shop,Bonnie Franklin,work,no
