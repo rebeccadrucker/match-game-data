@@ -841,7 +841,7 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 76,745,843,t blank,Brett Somers,shirt,Richard Dawson,bone,Charles Nelson Reilly,formation,Marjorie Hart,shirt,bone,bird,shirt,500
 76,746,844,joey blank,Brett Somers,bishop,Richard Dawson,lewis,Charles Nelson Reilly,faye,Marjorie Hart,bishop,brown,heatherton,bishop,500
 76,747,845,arrow blank,Joey Bishop,smith,Richard Dawson,root,Brett Somers,head,Larry Guthrie,head,shirt,smith,head,500
-76,748,846,c.b. blank,Brett Somers,s,Joey Bishop,demille,Richard Dawson,radio,Larry Guthrie,demille,demille,radio,s,100
+76,748,846,c.b. blank,Brett Somers,s.,Joey Bishop,demille,Richard Dawson,radio,Larry Guthrie,demille,demille,radio,s.,100
 76,749,847,smokey blank,Brett Somers,the bear,Mary Wickes,mountains,Charles Nelson Reilly,joe,Gloria Hendley,the bear,joe,robinson,the bear,500
 76,750,848,the three blank,Joey Bishop,bears,Charles Nelson Reilly,little pigs,Brett Somers,sisters,Gloria Hendley,musketeers,stooges,bears,musketeers,500
 76,751,849,dizzy blank,Charles Nelson Reilly,gillespie,Brett Somers,blonde,Bill Daily,dean,Gloria Hendley,dean,lizzy,gillespie,dean,500
@@ -1415,3 +1415,16 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 78,1268,1420,the boston blank,Richard Dawson,tea party,Charles Nelson Reilly,strangler,Bonnie Franklin,celtics,Roger Campbell,strangler,red sox,strangler,tea party,250
 78,1269,1421,see the blank,Richard Dawson,stars,Bonnie Franklin,u.s.a.,Brett Somers,birdie,Renee McKinney,u.s.a.,light,world,u.s.a.,500
 78,1270,1422,blank nothing,Marcia Wallace,all or,Richard Dawson,better than,Brett Somers,much ado about,Renee McKinney,all or,double or,something for,all or,500
+78,1271,1423,society blank,Richard Dawson,page,Charles Nelson Reilly,column,Fannie Flagg,wedding,Joanne Alford,page,'s child,ball,page,500
+78,1271,1424,blank instrument,Richard Dawson,musical,Charles Nelson Reilly,blunt,Avery Schreiber,dental,Linda Ferguson,musical,surgical,blunt,musical,500
+78,1272,1425,cast a blank,Avery Schreiber,spell,Charles Nelson Reilly,stone,Richard Dawson,shadow,Linda Ferguson,shadow,stone,spell,shadow,500
+78,1273,1426,keep your blank up,Charles Nelson Reilly,chin,Elaine Joyce,spirits,Richard Dawson,pants,Sharon Matthews,chin,spirits,head,chin,500
+78,1274,1427,blank bracelet,Richard Dawson,i.d.,Fannie Flagg,charm,Avery Schreiber,ankle,Linda Earhart,charm,i.d.,gold,charm,500
+78,1275,1428,blank jury,Avery Schreiber,grand,Charles Nelson Reilly,hung,Richard Dawson,judge and,Jessica White,grand,judge and,hung,grand,500
+78,1276,1429,dial blank,Richard Dawson,soap,Betty White,m for murder,Charles Nelson Reilly,tone,John Turek,soap,0,m for murder,soap,500
+78,1276,1430,blank earring,Richard Dawson,gold,Betty White,pierced,Charles Nelson Reilly,pearl,John Turek,gold,diamond,pierced,gold,500
+78,1277,1431,jockey blank,Richard Dawson,shorts,Betty White,for position,Charles Nelson Reilly,on the carousel,John Turek,shorts,club,strap,shorts,500
+78,1278,1432,blank medicine,Charles Nelson Reilly,patent,Richard Dawson,preventive,Brett Somers,taste of your own,Gloria Patterson,cough,patent,take your,cough,500
+78,1279,1433,blank in time,Betty White,just,Richard Dawson,at this point in,Charles Nelson Reilly,all,Gloria Patterson,just,step,a stitch,just,500
+78,1280,1434,circus blank,Brett Somers,tent,Richard Dawson,clown,Charles Nelson Reilly,parade,Gloria Patterson,clown,tent,circus,clown,500
+78,1280,1435,blank plus,Richard Dawson,orange,Betty White,sur,Richard Paul,a,Beverly White-Wilson,orange,a,orange,alka-seltzer,250
