@@ -244,9 +244,9 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 74,207,272,seventh blank,Shirley Kilgore,heaven,Trish Stewart,heaven,yes
 74,209,273,golden blank,Shirley Kilgore,fleece,Charles Nelson Reilly,rule,no
 74,209,274,blank chain,Shirley Kilgore,watch,Jack Carter,daisy,no
-74,210,275,simple blank,C. B. Farnsworth,simon,Richard Dawson,simon,yes
-74,211,276,never blank,C. B. Farnsworth,on sunday,Richard Dawson,on sunday,yes
-74,212,277,band blank,C. B. Farnsworth,wagon,Richard Dawson,wagon,yes
+74,210,275,simple blank,C.B. Farnsworth,simon,Richard Dawson,simon,yes
+74,211,276,never blank,C.B. Farnsworth,on sunday,Richard Dawson,on sunday,yes
+74,212,277,band blank,C.B. Farnsworth,wagon,Richard Dawson,wagon,yes
 74,213,278,wash blank,Sue Hagie,day,Richard Dawson,room,no
 74,214,279,art blank,Sue Hagie,gallery,Richard Dawson,class,no
 74,215,280,blank bug,Leigh Moore,litter,Richard Dawson,lightning,no
@@ -1263,7 +1263,7 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 78,1249,1398,shoot for blank,Jim Smajdek,the moon,Richard Dawson,the stars,no
 78,1250,1399,blank comics,Jim Smajdek,stand-up,Richard Dawson,newspaper,no
 78,1251,1400,blank fiction,Kathy Kreps,science,Brett Somers,science,yes
-78,1252,1401,blank marker,Kathy Kreps,magic,Richard Dawson,magician's,yes
+78,1252,1401,blank marker,Kathy Kreps,magic,Richard Dawson,magic,yes
 78,1252,1402,blank phone call,Mary McCabe,obscene,McLean Stevenson,obscene,yes
 78,1253,1403,blank lawrence,Madolyn LaMonica,steve,Richard Dawson,steve,yes
 78,1254,1404,blank security,Madolyn LaMonica,top,Brett Somers,social,no
@@ -1297,3 +1297,18 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 78,1279,1433,blank garden,Gloria Patterson,vegetable,Richard Paul,flower,no
 78,1280,1434,old fashioned blank,Gloria Patterson,girl,Richard Paul,girl,yes
 78,1280,1435,near blank,Beverly White-Wilson,by,Betty White,miss,no
+78,1283,1438,blank hills,Frank Matrau,beverly,Joyce Bulifant,beverly,yes
+78,1284,1440,midas touch,Debbie Sorensen,touch,Dick Martin,muffler,no
+78,1285,1441,celebrity blank,Debbie Sorensen,sweepstakes,Lorrie Mahaffey,sweepstakes,yes
+78,1286,1442,blank rights,Jill Kerligan,bill of,Charles Nelson Reilly,bill of,yes
+78,1287,1443,mile blank,Jill Kerligan,stone,Patty Duke Astin,stone,yes
+78,1288,1444,blank chocolate,Jim Allen,hot,Fannie Flagg,hot,yes
+78,1289,1445,blank peppers,Jim Allen,hot,Brett Somers,hot,yes
+78,1289,1446,blank and see,Cindy Lombardi,look,Brett Somers,wait,no
+78,1290,1447,blank cup,Luvy Bracken,tea,Bob Barker,tea,yes
+78,1291,1448,blank sands,Rich Garland,tommy,Robert Mandan,tommy,yes
+78,1292,1449,blank usher,Carolyn Cohen,movie,Robert Mandan,theater,no
+78,1293,1450,blank balloon,Carolyn Cohen,lead,Robert Mandan,red,no
+78,1294,1451,butcher blank,Carolyn Cohen,knife,Lee Meriwether,knife,yes
+78,1295,1452,city blank,Bill Clark,of new york,Betty White,street,no
+78,1296,1453,blank store,Bill Clark,drug,Gary Burghoff,grocery,no
