@@ -285,9 +285,9 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 74,248,317,blank top,Ellen Loretta,pop,Richard Dawson,flat,no
 74,249,318,standard blank,Ellen Loretta,oil,Betty White,oil,yes
 74,249,319,pajama blank,Ellen Loretta,bottoms,Betty White,tops,no
-74,251,320,show blank,Carlotta Nelson,business,Richard Dawson,and tell,no
-74,252,321,toll blank,Carlotta Nelson,bridge,Charles Nelson Reilly,booth,no
-74,252,322,stark blank,Carlotta Nelson,naked,Charles Nelson Reilly,naked,yes
+74,251,320,show blank,Karlotta Nelson,business,Richard Dawson,and tell,no
+74,252,321,toll blank,Karlotta Nelson,bridge,Charles Nelson Reilly,booth,no
+74,252,322,stark blank,Karlotta Nelson,naked,Charles Nelson Reilly,naked,yes
 74,254,324,wise blank,Susan Warren,owl,Richard Dawson,guy,no
 74,255,325,danish blank,Barbara Jenkins,pastry,Richard Dawson,pastry,yes
 74,256,326,blank corn,Paul Rodkin,pop,Charles Nelson Reilly,new,no
@@ -1298,7 +1298,7 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 78,1280,1434,old fashioned blank,Gloria Patterson,girl,Richard Paul,girl,yes
 78,1280,1435,near blank,Beverly White-Wilson,by,Betty White,miss,no
 78,1283,1438,blank hills,Frank Matrau,beverly,Joyce Bulifant,beverly,yes
-78,1284,1440,midas touch,Debbie Sorensen,touch,Dick Martin,muffler,no
+78,1284,1440,midas blank,Debbie Sorensen,touch,Dick Martin,muffler,no
 78,1285,1441,celebrity blank,Debbie Sorensen,sweepstakes,Lorrie Mahaffey,sweepstakes,yes
 78,1286,1442,blank rights,Jill Kerligan,bill of,Charles Nelson Reilly,bill of,yes
 78,1287,1443,mile blank,Jill Kerligan,stone,Patty Duke Astin,stone,yes
@@ -1312,3 +1312,135 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 78,1294,1451,butcher blank,Carolyn Cohen,knife,Lee Meriwether,knife,yes
 78,1295,1452,city blank,Bill Clark,of new york,Betty White,street,no
 78,1296,1453,blank store,Bill Clark,drug,Gary Burghoff,grocery,no
+78,1297,1454,blank your ears,Cheryl Ezel,pierce,Marcia Wallace,wash,no
+78,1298,1455,blank helmet,Joe Williams,football,Loni Anderson,crash,no
+78,1299,1456,bring in the blank,Joe Williams,newspaper,McLean Stevenson,clowns,no
+78,1300,1457,blank convertible,Joe Williams,cadillac,Marcia Wallace,castro,no
+78,1301,1458,liquid blank,Judi Bates,gas,Tab Hunter,gold,no
+78,1301,1459,blank of it,Judi Bates,just for the heck,Brett Somers,what,no
+78,1302,1460,rolled blank,Cherie Daniels,around,Fannie Flagg,oats,no
+78,1303,1461,blank rubber,Cherie Daniels,foam,Brett Somers,burnt,no
+78,1304,1462,shore blank,Mike Graham,side,Brett Somers,leave,no
+78,1304,1463,stud blank,Mike Graham,farm,Tab Hunter,farm,yes
+78,1305,1464,the road to blank,Cheryl Crist,phoenix,Tab Hunter,success,no
+78,1306,1465,blank drummer,Tina Ruggiero,toy,Charles Nelson Reilly,bongo,no
+78,1307,1466,coming up blank,Tina Ruggiero,roses,Charles Nelson Reilly,roses,yes
+78,1308,1467,blank condition,Kevin Dickerson,top,Debralee Scott,air,no
+78,1308,1468,blank hearts,Kevin Dickerson,queen of,Betty White,sweet,no
+78,1309,1469,lead blank,Coleen Callahan,pencil,Charles Nelson Reilly,balloon,no
+78,1310,1470,shave blank,Jill Moore,cream,Nipsey Russell,cream,yes
+78,1311,1471,the blank service,Bob Indellicati,c.i.a.,Patty Duke Astin,secret,no
+78,1312,1472,blank gift,Bonnie Ryan,christmas,Charles Nelson Reilly,christmas,yes
+78,1313,1473,the blank war,Bonnie Ryan,civil,Edward Asner,world,no
+78,1314,1474,blank department,E.J. Piazza,police,Brett Somers,police,yes
+78,1315,1475,blank dancing,E.J. Piazza,disco,Edward Asner,disco,yes
+78,1316,1476,blank me now,Diana McCloud,kiss,Brett Somers,kiss,yes
+78,1316,1477,ill blank,Diana McCloud,health,Charles Nelson Reilly,at ease,no
+78,1317,1478,grandpa blank,Teri Iriart,akins,Brett Somers,walton,no
+78,1318,1479,liquid blank,April Damon,ajax,Bill Daily,gas,no
+78,1319,1480,blank look,April Damon,take a,Fannie Flagg,new,no
+78,1320,1481,blank trainer,April Damon,animal,Brett Somers,animal,yes
+78,1321,1482,stop the blank,Duke Alvord,clock,Jack Klugman,music,no
+78,1322,1483,blank mustache,Marcie Gronowski,handlebar,Charles Nelson Reilly,handlebar,yes
+78,1322,1484,blank morgan,Marcie Gronowski,j.p.,Betty White,harry,no
+78,1323,1485,magnetic blank,Brenda Petty,staple,Betty White,tape,no
+78,1324,1486,observation blank,Brenda Petty,deck,Donna Pescow,tower,no
+78,1325,1487,blank your arms,Brenda Petty,fold,Donna Pescow,fold,yes
+78,1326,1489,blank sale,Mary Jane Vesledahl,for,Brett Somers,fire,no
+78,1327,1490,blank crown,Debbie Ritch,jeweled,Robert Walden,royal,no
+78,1328,1491,blank finder,Debbie Ritch,path,Brett Somers,path,yes
+78,1328,1492,a case of blank,Debbie Ritch,beer,Mary Wickes,beer,yes
+78,1329,1493,blank administration,Debbie Ritch,carter,Richard Paul,business,no
+78,1330,1494,start to blank,Betty Warfel,finish,Richard Paul,finish,yes
+78,1333,1497,princess blank,Linda Claridge,grace,Charles Nelson Reilly,grace,yes
+78,1335,1499,pirate blank,Greg Ridgeway,ship,Brett Somers,ship,yes
+78,1335,1500,farm blank,Greg Ridgeway,animals,Joyce Bulifant,land,no
+78,1336,1501,run and blank,Debbie Lane,hide,Nipsey Russell,hide,yes
+78,1337,1502,blank notice,Joanne Arnau,eviction,Brett Somers,final,no
+78,1338,1503,blank of hearts,Joanne Arnau,queen,Judy Landers,queen,yes
+78,1339,1504,pick and blank,Bobbie Cliff,choose,Charles Nelson Reilly,choose,yes
+78,1340,1505,anne blank,Sheila Guinn,of a thousand days,Gary Burghoff,landers,no
+78,1341,1506,casting blank,Connie Swinger,couch,Robert Pine,couch,yes
+78,1341,1507,cider blank,Myrna Mae Meth,juice,Patti Deutsch,barrel,no
+78,1342,1508,blank dark,Myrna Mae Meth,pitch,Patti Deutsch,after,no
+78,1343,1509,farmer blank,Robin Marker,john,Robert Pine,john,yes
+78,1344,1510,flaming blank,Robin Marker,dessert,Brett Somers,red,no
+78,1345,1511,blank like a man,Rusty Turner,built,Loni Anderson,act,no
+78,1346,1512,blank melody,Rusty Turner,sing me a,Erica Hope,old fashioned,no
+78,1347,1513,baltimore blank,Rusty Turner,maryland,Brett Somers,orioles,no
+78,1348,1514,blanking up,Rusty Turner,making,Charles Nelson Reilly,throwing,no
+78,1349,1515,storm blank,Vicki Durrett,cellar,Bart Braverman,clouds,no
+78,1349,1516,soft and blank,Vicki Durrett,sweet,Brett Somers,low,no
+78,1350,1517,blank stamp,Vicki Durrett,postage,Charles Nelson Reilly,postage,yes
+78,1351,1518,lady in blank,Mike Johnson,red,Don Sutton,black,no
+78,1353,1519,blank reservation,Dee Nichols,indian,Nancy Lane,indian,yes
+78,1354,1520,blank writer,Dee Nichols,script,Nancy Lane,ghost,no
+78,1355,1521,flannel blank,Dee Nichols,suit,Charles Nelson Reilly,underwear,no
+78,1356,1522,hoover blank,Hank Lenhart,dam,Brett Somers,dam,yes
+78,1357,1523,blank arts,Hank Lenhart,martial,Ken Olfson,fine,no
+78,1357,1524,solid gold blank,Hank Lenhart,cadillac,Ken Olfson,cadillac,yes
+78,1358,1525,wilbur blank,Hank Lenhart,wright,Ken Olfson,mills,no
+78,1359,1526,blank hotel,Hank Lenhart,sleazy,Charles Nelson Reilly,grand,no
+78,1360,1527,thanksgiving blank,Julie Eaton,turkey,Ken Olfson,turkey,yes
+78,1362,1529,wash the blank,Julie Eaton,dishes,Fannie Flagg,dishes,yes
+78,1362,1530,blank wrestler,Julie Eaton,arm,Fannie Flagg,lady,no
+78,1364,1531,blank boil,Kurt Aiken,skin,Brett Somers,hard as a,no
+78,1365,1532,cloak blank,Lonzina Hartless,and dagger,Fannie Flagg,and dagger,yes
+78,1366,1533,blank your heart,Lonzina Hartless,cross,Betty White,cross,yes
+79,1367,1534,blank dart,Dianne Wallin,sharp,Betty White,dodge,no
+79,1368,1535,13 blank,Dianne Wallin,14,Charles Nelson Reilly,colonies,no
+79,1368,1536,pipe and blank,Lynda Lipovac,slippers,Connie Stevens,slippers,yes
+79,1371,1539,blank of justice,Frances Anderson,court,Patty Duke Astin,sword,no
+79,1372,1540,blank cold,Charlie Daniels,head,Audrey Landers,head,yes
+79,1373,1541,blank horses,Trina McKay,race,Charles Nelson Reilly,wild,no
+79,1373,1542,turn it blank,Trina McKay,on,Robert Walden,off,no
+79,1374,1543,new york blank,Trina McKay,city,Patty Duke Astin,city,yes
+79,1375,1544,blank stage,Trina McKay,on,Robert Walden,back,no
+79,1376,1545,pump blank,Almelia Brooks,gas,Dolly Martin,gas,yes
+79,1377,1546,blank to end,Alan Leipzig,beginning,Brett Somers,end,no
+79,1378,1547,blank trade,Alan Leipzig,learn a,Brett Somers,foreign,no
+79,1379,1549,blank done,Mary Saia,all,Patti Deutsch,well,no
+79,1380,1550,olympic blank,Mary Saia,light,Patti Deutsch,games,no
+79,1381,1551,blank the dog,Craig Hibbard,walk,Richard Deacon,walk,yes
+79,1382,1552,older blank,Carol Alston,brother,Robert Pine,woman,no
+79,1382,1553,sleigh blank,Carol Alston,ride,Richard Deacon,bells,no
+79,1383,1554,blank spade,Carol Alston,ace of,Robert Pine,sam,no
+79,1384,1555,which way is blank,Carol Alston,up,Richard Deacon,up,yes
+79,1384,1556,blank japan,Carol Alston,tokyo,Brett Somers,made in,no
+79,1385,1557,blank harry,Bert Waring,dirty,Fannie Flagg,dirty,yes
+79,1386,1558,barrel of blank,Bert Waring,monkeys,Brett Somers,fun,no
+79,1387,1559,blank and nonsense,Stacy Ziegler,fun,Bob Barker,stuff,no
+79,1388,1560,blank handed,Ken Curry,right,Bob Barker,right,yes
+79,1389,1561,blank cement,C.C. Scafidi,wet,Brianne Leary,wet,yes
+79,1390,1562,the greek blank,Vince Burger,tycoon,Bowzer,gods,no
+79,1390,1563,blank detective,Chris Frary,the easy,Brett Somers,private,no
+79,1391,1564,blank champions,Olaf Tweedy,breakfast of,Gary Burghoff,national,no
+79,1392,1565,dark blank,Cindy Kao,alley,Fannie Flagg,shadows,no
+79,1393,1566,bless your blank,Cindy Kao,heart,Gary Burghoff,heart,yes
+79,1393,1567,blank candy bar,Cindy Kao,chocolate,Gary Burghoff,hershey,no
+79,1394,1568,hotel blank,Midge Barnett,lobby,Brett Somers,room,no
+79,1395,1569,canary blank,Midge Barnett,yellow,Elaine Joyce,island,no
+79,1395,1570,new orleans blank,Joanne Rupp,mardi gras,Elaine Joyce,mardi gras,yes
+79,1396,1571,neighborhood blank,Joanne Rupp,store,Lorrie Mahaffey,bully,no
+79,1397,1572,blank syrup,Joanne Rupp,maple,Lorrie Mahaffey,cough,no
+79,1398,1573,cookies and blank,Joanne Rupp,milk,Marcia Wallace,milk,yes
+79,1399,1574,going to blank,Jana Anello,pot,Joe Santos,heaven,no
+79,1401,1576,you are my blank,John Mason,friend,Bart Braverman,sunshine,no
+79,1402,1577,blank of salt,John Mason,pinch,Bart Braverman,a pinch,yes
+79,1402,1578,tower blank,Terry Vandenberg,of pisa,Bart Braverman,of babel,no
+79,1404,1580,blank malt,Mark Cross,chocolate,Barbara Rhoades,chocolate,yes
+79,1407,1582,blank towels,Sylvia Sevier,paper,Paul Williams,paper,yes
+79,1408,1583,very blank,Nancy Low,happy,Debralee Scott,good,no
+79,1409,1584,blank talks,Nancy Low,money,Debralee Scott,money,yes
+79,1410,1585,blank program,Ardith Winter,daytime,Brett Somers,tv,no
+79,1411,1586,blank wide,Jim Holsapple,world,Charles Nelson Reilly,open,no
+79,1412,1587,blank potatoes,Jim Holsapple,mashed,Donna Pescow,mashed,yes
+79,1413,1588,sporting blank,Linda Rutherford,goods,Brett Somers,goods,yes
+79,1414,1589,blank fare,Linda Rutherford,bus,Daryl Anderson,bus,yes
+79,1415,1591,blank plug,Barbara Fain,ear,Richard Paul,spark,no
+79,1416,1592,i'll see you blank,Barbara Fain,in september,David Doyle,in my dreams,no
+79,1417,1593,now and blank,Barbara Fain,always,David Doyle,forever,no
+79,1418,1594,pinch of blank,Krista Claffey,salt,Charles Nelson Reilly,salt,yes
+79,1419,1595,you're out of blank,Sheldon Metz,time,Brett Somers,luck,no
+79,1420,1596,blank warning,Sheldon Metz,early,Fannie Flagg,storm,no
+79,1420,1597,blank salts,Christie Canno,epsom,Scoey Mitchell,smelling,no
