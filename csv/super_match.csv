@@ -172,7 +172,7 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 74,125,171,making blank,Brett Somers,out,Richard Dawson,whoopee,Madlyn Rhue,up,Arlene Besolt,love,money,whoopee,love,500
 74,126,172,punch blank,Greg Morris,drunk,Richard Dawson,and judy,Fannie Flagg,bowl,Sandy Zipzer,bowl,drunk,and judy,bowl,500
 74,126,173,stage blank,Greg Morris,coach,Morey Amsterdam,mother,Fannie Flagg,fright,Marlena Crews,coach,hand,coach,fright,250
-74,127,174,blank pop,Richard Dawson,soda,Fannie Flagg,mom and,Morey Amsterdam,lolli,Marlena Crews,soda,snap crackle and,lolli,soda,500
+74,127,174,blank pop,Richard Dawson,soda,Fannie Flagg,mom and,Morey Amsterdam,lolli,Marlena Crews,soda,"snap, crackle and",lolli,soda,500
 74,128,175,blank doctor,Morey Amsterdam,horse,Greg Morris,medical,Juliet Mills,ship's,Marlena Crews,witch,medical,horse,witch,500
 74,129,176,blank bar,Richard Dawson,candy,Fannie Flagg,snack,Greg Morris,wet,Brenda Lee Meriwether,candy,topless,wet,candy,500
 74,130,177,blank worth,Brett Somers,wool,Richard Dawson,fort,Juliet Mills,,Brenda Lee Meriwether,money's,fort,wool,money's,500
@@ -1552,7 +1552,7 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 79,1385,1557,the world blank,Susan Richardson,turns,Fannie Flagg,almanac,Brett Somers,according to garp,Bert Waring,series,is round,turns,series,500
 79,1386,1558,the happy blank,Brett Somers,days,Charles Nelson Reilly,hooker,Bob Barker,hour,Bert Waring,hooker,hour,day,hooker,500
 79,1387,1559,blank beat,Charles Nelson Reilly,heart,Brianne Leary,tiger,Bob Barker,dead,Stacy Ziegler,heart,off,down,heart,500
-79,1388,1560,cheer blank,Charles Nelson Reilly,leader,Bob Barker,up,Bowzer,#name?,Ken Curry,leader,#name?,up,leader,500
+79,1388,1560,cheer blank,Charles Nelson Reilly,leader,Bob Barker,up,Bowzer,-io,Ken Curry,leader,-ios,up,leader,500
 79,1389,1561,way down blank,Bob Barker,yonder,Charles Nelson Reilly,upon the swannee river,Bowzer,south,C.C. Scafidi,upon the swannee river,upon the swannee river,south,yonder,100
 79,1389,1562,soft as a blank,Bowzer,pillow,Charles Nelson Reilly,baby's cheek,Joyce Bulifant,kitten,Vince Burger,kitten,pillow,baby's behind,kitten,500
 79,1390,1563,vodka blank,Charles Nelson Reilly,and tonic,Brett Somers,martini,Bowzer,collins,Chris Frary,martini,martini,and tonic,collins,100
@@ -1562,7 +1562,7 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 79,1393,1567,no such blank,Fannie Flagg,luck,Charles Nelson Reilly,animal,Gary Burghoff,thing,Cindy Kao,thing,animal,luck,thing,500
 79,1394,1568,boy scout blank,Brett Somers,troop,Fannie Flagg,leader,Gary Burghoff,jamboree,Midge Barnett,troop,jamboree,'s of america,troop,500
 79,1395,1569,afternoon blank,Charles Nelson Reilly,tea,Fannie Flagg,nap,Brett Somers,of a faun,Midge Barnett,tea,nap,tea,delight,250
-79,1395,1570,melon blank,Avery Schreiber,balls,Gary Burghoff,#name?,Charles Nelson Reilly,tree,Joanne Rupp,balls,head,#name?,balls,500
+79,1395,1570,melon blank,Avery Schreiber,balls,Gary Burghoff,-choly,Charles Nelson Reilly,tree,Joanne Rupp,balls,head,-choly baby,balls,500
 79,1396,1571,east side blank,Joe Santos,west side,Brett Somers,of town,Marcia Wallace,story,Joanne Rupp,west side,kids,story,west side,500
 79,1397,1572,blank mania,Marcia Wallace,disco,Bill Daily,beatle,Charles Nelson Reilly,ego,Joanne Rupp,beatle,klepto-,disco,beatle,500
 79,1398,1573,valley of blank,Joe Santos,the dolls,Marcia Wallace,the shadow of death,Bill Daily,the giants,Joanne Rupp,the dolls,the giants,death,the dolls,500
@@ -1578,15 +1578,55 @@ Season,Episode,Game,Question,First Panelist Chosen,First Panelist Answer,Second 
 79,1408,1583,white as blank,Guich Koock,snow,Brett Somers,a sheet,Betty White,a ghost,Nancy Low,a sheet,a ghost,a sheet,snow,250
 79,1409,1584,pint blank,Paul Williams,size,Charles Nelson Reilly,of ice cream,Debralee Scott,of milk,Nancy Low,size,of whiskey,of milk,size,500
 79,1410,1585,male blank,Brett Somers,animal,Guich Koock,member,Betty White,chauvinist,Ardith Winter,chauvinist,and female,ego,chauvinist,500
-79,1411,1586,pleasant blank,Brett Somers,dreams,Patti Deutsch,journey,Charles Nelson Reilly,day,Jim Holsapple,day,personality,day,dreams,250
-79,1412,1587,blank corner,Brett Somers,street,Richard Paul,around the,Charles Nelson Reilly,kitty,Jim Holsapple,street,kitty,street,around the,250
-79,1413,1588,blank me in,Charles Nelson Reilly,fill,Richard Paul,count,Donna Pescow,let,Linda Rutherford,count,tuck,count,let,250
-79,1413,1589,the wet blank,Brett Somers,look,Richard Paul,blanket,Charles Nelson Reilly,ones,Linda Rutherford,look,look,one,blanket,100
-79,1414,1590,eye of blank,Richard Paul,newt,Charles Nelson Reilly,the storm,Donna Pescow,needle,Linda Rutherford,newt,an eagle,the tiger,the needle,0
-79,1415,1591,blank transplant,Brett Somers,hair,Patti Deutsch,heart,Charles Nelson Reilly,kidney,Barbara Fain,hair,kidney,hair,heart,250
+79,1411,1586,pleasant blank,Charles Nelson Reilly,dreams,Patti Deutsch,journey,Brett Somers,day,Jim Holsapple,day,personality,day,dreams,250
+79,1412,1587,blank corner,Charles Nelson Reilly,street,Richard Paul,around the,Brett Somers,kitty,Jim Holsapple,street,kitty,street,around the,250
+79,1413,1588,blank me in,Brett Somers,fill,Richard Paul,count,Donna Pescow,let,Linda Rutherford,count,tuck,count,let,250
+79,1413,1589,the wet blank,Charles Nelson Reilly,look,Richard Paul,blanket,Brett Somers,ones,Linda Rutherford,look,look,one,blanket,100
+79,1414,1590,eye of blank,Richard Paul,newt,Brett Somers,the storm,Donna Pescow,needle,Linda Rutherford,newt,an eagle,the tiger,the needle,0
+79,1415,1591,blank transplant,Charles Nelson Reilly,hair,Patti Deutsch,heart,Brett Somers,kidney,Barbara Fain,hair,kidney,hair,heart,250
 79,1416,1592,i'm in blank,Loretta Swit,the money,Charles Nelson Reilly,the mood for love,Brett Somers,heaven,Barbara Fain,the mood for love,the money,the mood,love,250
 79,1417,1593,wine and blank,Charles Nelson Reilly,roses,Loretta Swit,dine,Brett Somers,women and song,Barbara Fain,roses,dine,cheese,roses,500
 79,1418,1594,blank kaye,Loretta Swit,danny,Charles Nelson Reilly,sammy,Scoey Mitchell,o-,Krista Claffey,danny,o-,sammy,danny,500
 79,1419,1595,i need a blank,Charles Nelson Reilly,drink,Scoey Mitchell,broad,Brett Somers,break,Sheldon Metz,drink,fix,man,drink,500
 79,1420,1596,sixteen blanks,Brett Somers,bars,Charles Nelson Reilly,tons,Scoey Mitchell,years old,Sheldon Metz,tons,year,ton,candle,250
-79,1420,1597,seeing blank,Brett Somers,eye dog,Charles Nelson Reilly,is believing,Loretta Swit,double,Christie Canno,eye dog,double,eye dog,is believing,250
+79,1420,1597,seeing blank,Brett Somers,eye dog,Charles Nelson Reilly,is believing,Loretta Swit,double,Christie Cannell,eye dog,double,eye dog,is believing,250
+79,1421,1598,it's only blank,Charles Nelson Reilly,a paper moon,Brett Somers,make believe,Betty White,money,Christie Cannell,money,a paper moon,make believe,money,500
+79,1422,1599,the cheap blank,Brett Somers,detective,Foster Brooks,skate,Charles Nelson Reilly,show,Christie Cannell,detective,trick,detective,skate,250
+79,1423,1600,blank explosion,Betty White,population,Brett Somers,big,Charles Nelson Reilly,gas,Christie Cannell,population,big,atomic,population,500
+79,1423,1601,tee blank,Charles Nelson Reilly,hee,Brett Somers,for two,Lorna Patterson,off,Chris Arboit,off,pee,shirt,off,500
+79,1424,1602,passing blank,Brett Somers,parade,Betty White,permitted,Dick Martin,on,Daisy Jamison,by,the buck,thru,by,500
+79,1425,1603,come back blank,Betty White,little sheba,Brett Somers,to me,Lorna Patterson,tomorrow,Daisy Jamison,little sheba,to me,soon,little sheba,500
+79,1426,1604,the blank sisters,Charles Nelson Reilly,andrews,Nipsey Russell,lennon,Loni Anderson,dolly,Dana Merchant,lennon,andrews,pointer,lennon,500
+79,1427,1605,hand me blank,Brett Somers,downs,Joyce Bulifant,over,Jack Jones,that,Dana Merchant,downs,the salt,a towel,downs,500
+79,1428,1606,i'd rather blank,Brett Somers,be right,Jack Jones,be me,Nipsey Russell,do it myself,Carolyn Zimmerman,do it myself,be rich,fight than switch,be sailing,0
+79,1429,1607,slim blank,Nipsey Russell,jim,Charles Nelson Reilly,pickins,Loni Anderson,chance,Dana Basher,jim,and trim,pickins,jim,500
+79,1429,1608,you need blank,Nipsey Russell,a man's deodorant,Joyce Bulifant,a haircut,Brett Somers,a bath,Karen Hearn,a haircut,help,me,love,0
+79,1430,1609,deck blank,Brett Somers,of cards,Charles Nelson Reilly,hand,Nipsey Russell,chair,Karen Hearn,of cards,hand,of cards,the halls,250
+79,1431,1610,gad blank,Arte Johnson,-zooks,Fannie Flagg,fly,Brett Somers,about,Jack Beijard,about,fly,-zooks,about,500
+79,1432,1611,pitching blank,Charles Nelson Reilly,woo,Fannie Flagg,a fit,Brett Somers,hay,Suzanne Abercrombie,a fit,arm,pennies,horseshoes,0
+79,1433,1612,blank his own,Fannie Flagg,to each,Arte Johnson,on,Kukla & Ollie,a room of,Suzanne Abercrombie,to each,all,to each,on,250
+79,1434,1613,gentle as blank,Fannie Flagg,a lamb,Kukla & Ollie,a kitten,Charles Nelson Reilly,a bear,Jay Brooks,a lamb,a baby,a kitten,a lamb,500
+79,1435,1614,blank sleeves,Charles Nelson Reilly,long,Arte Johnson,short,Fannie Flagg,green,Jay Brooks,long,green,long,short,250
+79,1436,1615,blank my wife,Charles Nelson Reilly,take,Don Galloway,i love,Lee Meriwether,that was no lady that was,Jay Brooks,take,kill,i love,take,500
+79,1437,1616,blank mud,Bill Daily,mississippi,Brett Somers,stick in the,Charles Nelson Reilly,clear as,Jay Brooks,mississippi,mississippi,clear as,stick in the,100
+79,1438,1617,cocoa blank,Charles Nelson Reilly,butter,Lee Meriwether,bean,Brett Somers,and marshmallows,Ambie Charles,butter,puffs,cola,butter,500
+79,1439,1618,blank sucker,Charles Nelson Reilly,all-day,Brett Somers,blood,Don Galloway,seer,Ambie Charles,all-day,candy,blood,all-day,500
+79,1440,1619,do as blank,Charles Nelson Reilly,i do,Lee Meriwether,your mother tells you,Brett Somers,i say,Ambie Charles,i say,you please,i say,i do,250
+79,1441,1620,blank of youth,Bill Cullen,fountain,Connie Stevens,time,Charles Nelson Reilly,pains,Larry Carter Jr.,fountain,sweet bird,spirit,fountain,500
+79,1442,1621,he's in the blank,Bill Cullen,dog house,Charles Nelson Reilly,money,Connie Stevens,john,Larry Carter Jr.,money,dog house,army,money,500
+79,1442,1622,den of blank,Brett Somers,iniquity,Charles Nelson Reilly,thieves,Marcia Wallace,wolves,Mary Claussen,thieves,thieves,iniquity,lions,100
+79,1443,1623,friendly blank,Connie Stevens,persuasion,Charles Nelson Reilly,neighbor,Marcia Wallace,advice,Jack Kaowa,advice,people,skies,persuasion,0
+79,1444,1624,the village blank,Brett Somers,idiot,Connie Stevens,people,Bill Cullen,voice,Carolyn Raisner,people,people,idiot,square,100
+79,1445,1625,indianapolis blank,Marcia Wallace,speedway,Connie Stevens,500,Bill Cullen,indiana,Carolyn Raisner,500,indiana,speedway,500,500
+79,1446,1626,tied blank,Fannie Flagg,up,Orson Bean,down,Brett Somers,game,Carolyn Raisner,up,down,in knots,up,500
+79,1447,1627,the days of blank,Dick Martin,wine and roses,Brianne Leary,our lives,Fannie Flagg,old,Carolyn Raisner,wine and roses,old,our lives,wine and roses,500
+79,1448,1628,17 blank,Fannie Flagg,76,Brett Somers,magazine,Orson Bean,gun salute,Carolyn Raisner,76,magazine,and over,76,500
+79,1449,1629,blank giants,Fannie Flagg,new york,Bill Daily,san francisco,Brianne Leary,land of the,Essie Paul,san francisco,jolly green,new york,san francisco,500
+79,1449,1630,blank for nothing,Orson Bean,something,Brett Somers,nothing,Bill Daily,good,Essie Paul,good,all,something,good,500
+79,1450,1631,blank shaw,Bill Daily,artie,Orson Bean,robert,Brett Somers,george bernard,Essie Paul,robert,robert,rick-,george bernard,100
+79,1451,1632,gee blank,Bill Daily,whiz,Elaine Joyce,golly,Marcia Wallace,willikers,Susie Kolker,whiz,gee,golly gumpshun,whiz,500
+79,1452,1633,fire and blank,Brett Somers,ice,Bart Braverman,rain,Gary Burghoff,brimstone,Denine Reagan,rain,smoke,brimstone,water,0
+79,1453,1634,blank too soon,Elaine Joyce,too much,Marcia Wallace,not a minute,Gary Burghoff,not a moment,Marianne Graham,too much,not a moment,none,too much,500
+79,1453,1635,blank turner,Bill Daily,lana,Marcia Wallace,tina,Brett Somers,ike,Marianne Graham,tina,pancake,lana,tina,500
+79,1454,1636,joy of blank,Elaine Joyce,sex,Marcia Wallace,cooking,Brett Somers,living,Alma Jo Clark,sex,cooking,living,sex,500
+79,1455,1637,you're in the blank,Elaine Joyce,ballpark,Marcia Wallace,money,Gary Burghoff,chips,Kirk Jones,money,mood,army now,money,500

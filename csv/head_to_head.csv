@@ -1388,7 +1388,7 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 78,1365,1532,cloak blank,Lonzina Hartless,and dagger,Fannie Flagg,and dagger,yes
 78,1366,1533,blank your heart,Lonzina Hartless,cross,Betty White,cross,yes
 79,1367,1534,blank dart,Dianne Wallin,sharp,Betty White,dodge,no
-79,1368,1535,13 blank,Dianne Wallin,14,Charles Nelson Reilly,colonies,no
+79,1368,1535,thirteen blank,Dianne Wallin,fourteen,Charles Nelson Reilly,colonies,no
 79,1368,1536,pipe and blank,Lynda Lipovac,slippers,Connie Stevens,slippers,yes
 79,1371,1539,blank of justice,Frances Anderson,court,Patty Duke Astin,sword,no
 79,1372,1540,blank cold,Charlie Daniels,head,Audrey Landers,head,yes
@@ -1433,9 +1433,9 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 79,1408,1583,very blank,Nancy Low,happy,Debralee Scott,good,no
 79,1409,1584,blank talks,Nancy Low,money,Debralee Scott,money,yes
 79,1410,1585,blank program,Ardith Winter,daytime,Brett Somers,tv,no
-79,1411,1586,blank wide,Jim Holsapple,world,Charles Nelson Reilly,open,no
+79,1411,1586,blank wide,Jim Holsapple,world,Brett Somers,open,no
 79,1412,1587,blank potatoes,Jim Holsapple,mashed,Donna Pescow,mashed,yes
-79,1413,1588,sporting blank,Linda Rutherford,goods,Brett Somers,goods,yes
+79,1413,1588,sporting blank,Linda Rutherford,goods,Charles Nelson Reilly,goods,yes
 79,1414,1589,blank fare,Linda Rutherford,bus,Daryl Anderson,bus,yes
 79,1415,1591,blank plug,Barbara Fain,ear,Richard Paul,spark,no
 79,1416,1592,i'll see you blank,Barbara Fain,in september,David Doyle,in my dreams,no
@@ -1443,4 +1443,39 @@ Season,Episode,Game,Question,Contestant,Contestant Answer,Panelist,Panelist Answ
 79,1418,1594,pinch of blank,Krista Claffey,salt,Charles Nelson Reilly,salt,yes
 79,1419,1595,you're out of blank,Sheldon Metz,time,Brett Somers,luck,no
 79,1420,1596,blank warning,Sheldon Metz,early,Fannie Flagg,storm,no
-79,1420,1597,blank salts,Christie Canno,epsom,Scoey Mitchell,smelling,no
+79,1420,1597,blank salts,Christie Cannell,epsom,Scoey Mitchell,smelling,no
+79,1421,1598,in your blank,Christie Cannell,life,Dick Martin,hat,no
+79,1422,1599,blank circuit,Christie Cannell,short,Betty White,short,yes
+79,1423,1600,theatre blank,Christie Cannell,tickets,Betty White,seat,no
+79,1423,1601,blue chip blank,Chris Arboit,stamps,Brett Somers,stamps,yes
+79,1424,1602,studio blank,Daisy Jamison,lights,Brett Somers,audience,no
+79,1425,1603,blank conditioner,Daisy Jamison,air,Brett Somers,air,yes
+79,1427,1604,the blank way,Dana Merchant,united,Joyce Bulifant,right,no
+79,1428,1605,cauliflower blank,Dana Merchant,ear,Jack Jones,ears,yes
+79,1429,1607,suit blank,Dana Basher,coat,Nipsey Russell,case,no
+79,1430,1609,get off my blank,Karen Hearn,back,Nipsey Russell,back,yes
+79,1431,1610,blank opinion,Jack Beijard,personal,Charles Nelson Reilly,public,no
+79,1434,1612,blank of the town,Suzanne Abercrombie,toast,Kukla & Ollie,toast,yes
+79,1434,1613,hearts and blank,Jay Brooks,clubs,Kukla & Ollie,flowers,no
+79,1435,1614,uptown blank,Jay Brooks,life,Brett Somers,bus,no
+79,1437,1615,blank candle,Jay Brooks,christmas,Don Galloway,roman,no
+79,1438,1616,blank counselor,Jay Brooks,marriage,Lee Meriwether,marriage,yes
+79,1438,1617,blank exit,Ambie Charles,fire,Bill Daily,no,no
+79,1439,1618,shelley blank,Ambie Charles,winters,Bill Daily,winters,yes
+79,1440,1619,blank tut,Ambie Charles,king,Charles Nelson Reilly,king,yes
+79,1441,1620,blank awards,Larry Carter Jr.,oscar,Fred Grandy,academy,no
+79,1442,1621,blank aces,Larry Carter Jr.,four,Connie Stevens,four,yes
+79,1443,1622,area blank,Mary Claussen,code,Charles Nelson Reilly,code,yes
+79,1444,1624,baking blank,Carolyn Raisner,pan,Marcia Wallace,soda,no
+79,1445,1625,a waste of blank,Carolyn Raisner,time,Charles Nelson Reilly,time,yes
+79,1446,1626,artie blank,Carolyn Raisner,johnson,Brett Somers,johnson,yes
+79,1447,1627,blank sweep,Carolyn Raisner,clean,Bill Daily,clean,yes
+79,1448,1628,snug blank,Carolyn Raisner,as a bug in a rug,Brett Somers,as a bug,yes
+79,1449,1629,fail blank,Essie Paul,exams,Dick Martin,safe,no
+79,1449,1630,blank file,Essie Paul,rockford,Bill Daily,nail,no
+79,1450,1631,blank present,Essie Paul,birthday,Brianne Leary,christmas,no
+79,1451,1632,fantasy blank,Susie Kolker,island,Marcia Wallace,island,yes
+79,1453,1634,comb blank,Marianne Graham,your hair,Gary Burghoff,your hair,yes
+79,1454,1635,blank sink,Marianne Graham,kitchen,Bart Braverman,kitchen,yes
+79,1454,1636,blank lobby,Alma Jo Clark,hotel,Marcia Wallace,hotel,yes
+79,1455,1637,blank and hot,Kirk Jones,cold,Gary Burghoff,cold,yes
